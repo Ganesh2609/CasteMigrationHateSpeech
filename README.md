@@ -154,25 +154,53 @@ For models using original text (IndicBERT, RoBERTa variants):
 ## Training Performance Graphs
 
 ### Dimension: 512
-![Google BERT](DL%20Feature%20set%20512/Train%20Data/Graphs/google_bert.png)
-![IndicBERT](DL%20Feature%20set%20512/Train%20Data/Graphs/indic_bert.png)
-![Seanbenhur BERT](DL%20Feature%20set%20512/Train%20Data/Graphs/seanbenhur_bert.png)
-![XLM-RoBERTa Base](DL%20Feature%20set%20512/Train%20Data/Graphs/xlm_roberta_base.png)
-![XLM-RoBERTa Large](DL%20Feature%20set%20512/Train%20Data/Graphs/xlm_roberta_large.png)
+**Google BERT**
+![Google BERT - Dimension 512](DL%20Feature%20set%20512/Train%20Data/Graphs/google_bert.png)
+
+**IndicBERT**
+![IndicBERT - Dimension 512](DL%20Feature%20set%20512/Train%20Data/Graphs/indic_bert.png)
+
+**Seanbenhur BERT**
+![Seanbenhur BERT - Dimension 512](DL%20Feature%20set%20512/Train%20Data/Graphs/seanbenhur_bert.png)
+
+**XLM-RoBERTa Base**
+![XLM-RoBERTa Base - Dimension 512](DL%20Feature%20set%20512/Train%20Data/Graphs/xlm_roberta_base.png)
+
+**XLM-RoBERTa Large**
+![XLM-RoBERTa Large - Dimension 512](DL%20Feature%20set%20512/Train%20Data/Graphs/xlm_roberta_large.png)
 
 ### Dimension: 1024
-![Google BERT](DL%20Feature%20set%201024/Train%20Data/Graphs/google_bert.png)
-![IndicBERT](DL%20Feature%20set%201024/Train%20Data/Graphs/indic_bert.png)
-![Seanbenhur BERT](DL%20Feature%20set%201024/Train%20Data/Graphs/seanbenhur_bert.png)
-![XLM-RoBERTa Base](DL%20Feature%20set%201024/Train%20Data/Graphs/xlm_roberta_base.png)
-![XLM-RoBERTa Large](DL%20Feature%20set%201024/Train%20Data/Graphs/xlm_roberta_large.png)
+**Google BERT**
+![Google BERT - Dimension 1024](DL%20Feature%20set%201024/Train%20Data/Graphs/google_bert.png)
+
+**IndicBERT**
+![IndicBERT - Dimension 1024](DL%20Feature%20set%201024/Train%20Data/Graphs/indic_bert.png)
+
+**Seanbenhur BERT**
+![Seanbenhur BERT - Dimension 1024](DL%20Feature%20set%201024/Train%20Data/Graphs/seanbenhur_bert.png)
+
+**XLM-RoBERTa Base**
+![XLM-RoBERTa Base - Dimension 1024](DL%20Feature%20set%201024/Train%20Data/Graphs/xlm_roberta_base.png)
+
+**XLM-RoBERTa Large**
+![XLM-RoBERTa Large - Dimension 1024](DL%20Feature%20set%201024/Train%20Data/Graphs/xlm_roberta_large.png)
 
 ### Dimension: 2048
-![Google BERT](DL%20Feature%20set%202048/Train%20Data/Graphs/google_bert.png)
-![IndicBERT](DL%20Feature%20set%202048/Train%20Data/Graphs/indic_bert.png)
-![Seanbenhur BERT](DL%20Feature%20set%202048/Train%20Data/Graphs/seanbenhur_bert.png)
-![XLM-RoBERTa Base](DL%20Feature%20set%202048/Train%20Data/Graphs/xlm_roberta_base.png)
-![XLM-RoBERTa Large](DL%20Feature%20set%202048/Train%20Data/Graphs/xlm_roberta_large.png)
+**Google BERT**
+![Google BERT - Dimension 2048](DL%20Feature%20set%202048/Train%20Data/Graphs/google_bert.png)
+
+**IndicBERT**
+![IndicBERT - Dimension 2048](DL%20Feature%20set%202048/Train%20Data/Graphs/indic_bert.png)
+
+**Seanbenhur BERT**
+![Seanbenhur BERT - Dimension 2048](DL%20Feature%20set%202048/Train%20Data/Graphs/seanbenhur_bert.png)
+
+**XLM-RoBERTa Base**
+![XLM-RoBERTa Base - Dimension 2048](DL%20Feature%20set%202048/Train%20Data/Graphs/xlm_roberta_base.png)
+
+**XLM-RoBERTa Large**
+![XLM-RoBERTa Large - Dimension 2048](DL%20Feature%20set%202048/Train%20Data/Graphs/xlm_roberta_large.png)
+
 
 ## Repository Structure
 
