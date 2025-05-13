@@ -1,0 +1,226 @@
+2025-03-30 00:09:09,592 - INFO - Using device: cuda
+2025-03-30 00:09:09,596 - INFO - Starting training for 48 epochs from scratch
+2025-03-30 00:11:03,263 - INFO - Training loss for epoch 1: 0.6674579359281012
+2025-03-30 00:11:03,263 - INFO - Training accuracy for epoch 1: 60.97560975609756
+2025-03-30 00:11:03,263 - INFO - Training F1 score for epoch 1: 0.25428375601768494
+2025-03-30 00:11:14,251 - INFO - Best model saved to E:/Work/My Papers/LT-EDI 2025/Caste and Migration Hate/Codebase/Train Data/Checkpoints/indic bert 1 lr3 d4 no trans\best_model.pth
+2025-03-30 00:11:14,252 - INFO - Testing loss for epoch 1: 0.6368359862541666
+2025-03-30 00:11:14,252 - INFO - Testing accuracy for epoch 1: 64.79591836734694
+2025-03-30 00:11:14,253 - INFO - Testing F1 score for epoch 1: 0.3030303120613098
+
+2025-03-30 00:11:14,253 - INFO - Current Learning rate: [0.001]
+2025-03-30 00:11:18,071 - INFO - Checkpoint saved to E:/Work/My Papers/LT-EDI 2025/Caste and Migration Hate/Codebase/Train Data/Checkpoints/indic bert 1 lr3 d4 no trans\model_epoch_1.pth
+2025-03-30 00:13:13,063 - INFO - Training loss for epoch 2: 0.627862918368371
+2025-03-30 00:13:13,063 - INFO - Training accuracy for epoch 2: 64.8493543758967
+2025-03-30 00:13:13,063 - INFO - Training F1 score for epoch 2: 0.4135248363018036
+2025-03-30 00:13:24,287 - INFO - Best model saved to E:/Work/My Papers/LT-EDI 2025/Caste and Migration Hate/Codebase/Train Data/Checkpoints/indic bert 1 lr3 d4 no trans\best_model.pth
+2025-03-30 00:13:24,287 - INFO - Testing loss for epoch 2: 0.6272953222600781
+2025-03-30 00:13:24,287 - INFO - Testing accuracy for epoch 2: 66.70918367346938
+2025-03-30 00:13:24,287 - INFO - Testing F1 score for epoch 2: 0.4263736307621002
+
+2025-03-30 00:13:24,287 - INFO - Current Learning rate: [0.001]
+2025-03-30 00:13:28,023 - INFO - Checkpoint saved to E:/Work/My Papers/LT-EDI 2025/Caste and Migration Hate/Codebase/Train Data/Checkpoints/indic bert 1 lr3 d4 no trans\model_epoch_2.pth
+2025-03-30 00:15:23,454 - INFO - Training loss for epoch 3: 0.61158881561999
+2025-03-30 00:15:23,454 - INFO - Training accuracy for epoch 3: 67.77259684361549
+2025-03-30 00:15:23,454 - INFO - Training F1 score for epoch 3: 0.49986085295677185
+2025-03-30 00:15:30,691 - INFO - Testing loss for epoch 3: 0.619429238596741
+2025-03-30 00:15:30,691 - INFO - Testing accuracy for epoch 3: 65.9438775510204
+2025-03-30 00:15:30,691 - INFO - Testing F1 score for epoch 3: 0.37470725178718567
+
+2025-03-30 00:15:30,692 - INFO - Current Learning rate: [0.001]
+2025-03-30 00:15:43,804 - INFO - Checkpoint saved to E:/Work/My Papers/LT-EDI 2025/Caste and Migration Hate/Codebase/Train Data/Checkpoints/indic bert 1 lr3 d4 no trans\model_epoch_3.pth
+2025-03-30 00:17:37,939 - INFO - Training loss for epoch 4: 0.5901221786886239
+2025-03-30 00:17:37,940 - INFO - Training accuracy for epoch 4: 68.7948350071736
+2025-03-30 00:17:37,940 - INFO - Training F1 score for epoch 4: 0.5134228467941284
+2025-03-30 00:17:45,231 - INFO - Testing loss for epoch 4: 0.6131818282360934
+2025-03-30 00:17:45,232 - INFO - Testing accuracy for epoch 4: 66.70918367346938
+2025-03-30 00:17:45,232 - INFO - Testing F1 score for epoch 4: 0.35555556416511536
+
+2025-03-30 00:17:45,233 - INFO - Current Learning rate: [0.001]
+2025-03-30 00:17:48,815 - INFO - Checkpoint saved to E:/Work/My Papers/LT-EDI 2025/Caste and Migration Hate/Codebase/Train Data/Checkpoints/indic bert 1 lr3 d4 no trans\model_epoch_4.pth
+2025-03-30 00:19:44,277 - INFO - Training loss for epoch 5: 0.5832057249768393
+2025-03-30 00:19:44,278 - INFO - Training accuracy for epoch 5: 69.38665710186514
+2025-03-30 00:19:44,278 - INFO - Training F1 score for epoch 5: 0.5355101823806763
+2025-03-30 00:19:55,715 - INFO - Best model saved to E:/Work/My Papers/LT-EDI 2025/Caste and Migration Hate/Codebase/Train Data/Checkpoints/indic bert 1 lr3 d4 no trans\best_model.pth
+2025-03-30 00:19:55,715 - INFO - Testing loss for epoch 5: 0.6038193325607144
+2025-03-30 00:19:55,715 - INFO - Testing accuracy for epoch 5: 69.13265306122449
+2025-03-30 00:19:55,716 - INFO - Testing F1 score for epoch 5: 0.48945146799087524
+
+2025-03-30 00:19:55,716 - INFO - Current Learning rate: [0.001]
+2025-03-30 00:19:59,415 - INFO - Checkpoint saved to E:/Work/My Papers/LT-EDI 2025/Caste and Migration Hate/Codebase/Train Data/Checkpoints/indic bert 1 lr3 d4 no trans\model_epoch_5.pth
+2025-03-30 00:21:53,756 - INFO - Training loss for epoch 6: 0.5595512199436062
+2025-03-30 00:21:53,756 - INFO - Training accuracy for epoch 6: 71.46700143472023
+2025-03-30 00:21:53,756 - INFO - Training F1 score for epoch 6: 0.5840522646903992
+2025-03-30 00:22:05,201 - INFO - Best model saved to E:/Work/My Papers/LT-EDI 2025/Caste and Migration Hate/Codebase/Train Data/Checkpoints/indic bert 1 lr3 d4 no trans\best_model.pth
+2025-03-30 00:22:05,202 - INFO - Testing loss for epoch 6: 0.5746877442817299
+2025-03-30 00:22:05,202 - INFO - Testing accuracy for epoch 6: 71.42857142857143
+2025-03-30 00:22:05,202 - INFO - Testing F1 score for epoch 6: 0.5867158770561218
+
+2025-03-30 00:22:05,202 - INFO - Current Learning rate: [0.001]
+2025-03-30 00:22:08,959 - INFO - Checkpoint saved to E:/Work/My Papers/LT-EDI 2025/Caste and Migration Hate/Codebase/Train Data/Checkpoints/indic bert 1 lr3 d4 no trans\model_epoch_6.pth
+2025-03-30 00:24:04,473 - INFO - Training loss for epoch 7: 0.5400640259001143
+2025-03-30 00:24:04,473 - INFO - Training accuracy for epoch 7: 72.7403156384505
+2025-03-30 00:24:04,473 - INFO - Training F1 score for epoch 7: 0.6092544794082642
+2025-03-30 00:24:11,729 - INFO - Testing loss for epoch 7: 0.5763570587245785
+2025-03-30 00:24:11,730 - INFO - Testing accuracy for epoch 7: 70.53571428571429
+2025-03-30 00:24:11,730 - INFO - Testing F1 score for epoch 7: 0.5276073813438416
+
+2025-03-30 00:24:11,730 - INFO - Current Learning rate: [0.001]
+2025-03-30 00:24:15,405 - INFO - Checkpoint saved to E:/Work/My Papers/LT-EDI 2025/Caste and Migration Hate/Codebase/Train Data/Checkpoints/indic bert 1 lr3 d4 no trans\model_epoch_7.pth
+2025-03-30 00:26:11,036 - INFO - Training loss for epoch 8: 0.5196125673469546
+2025-03-30 00:26:11,037 - INFO - Training accuracy for epoch 8: 74.62338593974175
+2025-03-30 00:26:11,037 - INFO - Training F1 score for epoch 8: 0.6402237415313721
+2025-03-30 00:26:22,559 - INFO - Best model saved to E:/Work/My Papers/LT-EDI 2025/Caste and Migration Hate/Codebase/Train Data/Checkpoints/indic bert 1 lr3 d4 no trans\best_model.pth
+2025-03-30 00:26:22,560 - INFO - Testing loss for epoch 8: 0.5423144965755696
+2025-03-30 00:26:22,560 - INFO - Testing accuracy for epoch 8: 73.59693877551021
+2025-03-30 00:26:22,560 - INFO - Testing F1 score for epoch 8: 0.6086956262588501
+
+2025-03-30 00:26:22,560 - INFO - Current Learning rate: [0.001]
+2025-03-30 00:26:26,343 - INFO - Checkpoint saved to E:/Work/My Papers/LT-EDI 2025/Caste and Migration Hate/Codebase/Train Data/Checkpoints/indic bert 1 lr3 d4 no trans\model_epoch_8.pth
+2025-03-30 00:29:04,986 - INFO - Training loss for epoch 9: 0.4986908282961702
+2025-03-30 00:29:04,986 - INFO - Training accuracy for epoch 9: 75.96843615494979
+2025-03-30 00:29:04,986 - INFO - Training F1 score for epoch 9: 0.6595528721809387
+2025-03-30 00:29:19,784 - INFO - Testing loss for epoch 9: 0.560811342785553
+2025-03-30 00:29:19,784 - INFO - Testing accuracy for epoch 9: 73.34183673469387
+2025-03-30 00:29:19,784 - INFO - Testing F1 score for epoch 9: 0.6078799366950989
+
+2025-03-30 00:29:19,784 - INFO - Current Learning rate: [0.001]
+2025-03-30 00:29:23,968 - INFO - Checkpoint saved to E:/Work/My Papers/LT-EDI 2025/Caste and Migration Hate/Codebase/Train Data/Checkpoints/indic bert 1 lr3 d4 no trans\model_epoch_9.pth
+2025-03-30 00:32:43,683 - INFO - Training loss for epoch 10: 0.4775592125257426
+2025-03-30 00:32:43,684 - INFO - Training accuracy for epoch 10: 76.93687230989957
+2025-03-30 00:32:43,684 - INFO - Training F1 score for epoch 10: 0.6830950975418091
+2025-03-30 00:32:58,448 - INFO - Testing loss for epoch 10: 0.5364259397801088
+2025-03-30 00:32:58,448 - INFO - Testing accuracy for epoch 10: 73.34183673469387
+2025-03-30 00:32:58,448 - INFO - Testing F1 score for epoch 10: 0.5957446694374084
+
+2025-03-30 00:32:58,450 - INFO - Current Learning rate: [0.001]
+2025-03-30 00:33:03,403 - INFO - Checkpoint saved to E:/Work/My Papers/LT-EDI 2025/Caste and Migration Hate/Codebase/Train Data/Checkpoints/indic bert 1 lr3 d4 no trans\model_epoch_10.pth
+2025-03-30 00:36:28,421 - INFO - Training loss for epoch 11: 0.4589757526579341
+2025-03-30 00:36:28,421 - INFO - Training accuracy for epoch 11: 78.012912482066
+2025-03-30 00:36:28,421 - INFO - Training F1 score for epoch 11: 0.6894630193710327
+2025-03-30 00:36:48,870 - INFO - Best model saved to E:/Work/My Papers/LT-EDI 2025/Caste and Migration Hate/Codebase/Train Data/Checkpoints/indic bert 1 lr3 d4 no trans\best_model.pth
+2025-03-30 00:36:48,871 - INFO - Testing loss for epoch 11: 0.5656033067070708
+2025-03-30 00:36:48,871 - INFO - Testing accuracy for epoch 11: 72.70408163265306
+2025-03-30 00:36:48,871 - INFO - Testing F1 score for epoch 11: 0.644518256187439
+
+2025-03-30 00:36:48,871 - INFO - Current Learning rate: [0.001]
+2025-03-30 00:36:53,638 - INFO - Checkpoint saved to E:/Work/My Papers/LT-EDI 2025/Caste and Migration Hate/Codebase/Train Data/Checkpoints/indic bert 1 lr3 d4 no trans\model_epoch_11.pth
+2025-03-30 00:40:10,450 - INFO - Training loss for epoch 12: 0.4609702457827509
+2025-03-30 00:40:10,450 - INFO - Training accuracy for epoch 12: 77.67216642754663
+2025-03-30 00:40:10,450 - INFO - Training F1 score for epoch 12: 0.6806873679161072
+2025-03-30 00:40:22,338 - INFO - Testing loss for epoch 12: 0.518750107714108
+2025-03-30 00:40:22,338 - INFO - Testing accuracy for epoch 12: 74.87244897959184
+2025-03-30 00:40:22,339 - INFO - Testing F1 score for epoch 12: 0.6275992393493652
+
+2025-03-30 00:40:22,339 - INFO - Current Learning rate: [0.001]
+2025-03-30 00:40:26,252 - INFO - Checkpoint saved to E:/Work/My Papers/LT-EDI 2025/Caste and Migration Hate/Codebase/Train Data/Checkpoints/indic bert 1 lr3 d4 no trans\model_epoch_12.pth
+2025-03-30 00:41:37,395 - INFO - Using device: cuda
+2025-03-30 00:41:38,788 - INFO - Training Resumed:
+   Current Epoch: 13
+   Global Step: 8365
+   Total Epochs: 48
+   Remaining Epochs: 35
+2025-03-30 00:43:35,937 - INFO - Training loss for epoch 13: 0.43444438989526746
+2025-03-30 00:43:35,937 - INFO - Training accuracy for epoch 13: 79.39383070301291
+2025-03-30 00:43:35,937 - INFO - Training F1 score for epoch 13: 0.7187270522117615
+2025-03-30 00:43:43,084 - INFO - Testing loss for epoch 13: 0.5140696665158078
+2025-03-30 00:43:43,084 - INFO - Testing accuracy for epoch 13: 74.74489795918367
+2025-03-30 00:43:43,084 - INFO - Testing F1 score for epoch 13: 0.6333333253860474
+
+2025-03-30 00:43:43,084 - INFO - Current Learning rate: [0.001]
+2025-03-30 00:43:58,993 - INFO - Checkpoint saved to E:/Work/My Papers/LT-EDI 2025/Caste and Migration Hate/Codebase/Train Data/Checkpoints/indic bert 1 lr3 d4 no trans\model_epoch_13.pth
+2025-03-30 00:45:53,954 - INFO - Training loss for epoch 14: 0.42530383654954274
+2025-03-30 00:45:53,954 - INFO - Training accuracy for epoch 14: 80.12912482065997
+2025-03-30 00:45:53,954 - INFO - Training F1 score for epoch 14: 0.7297561168670654
+2025-03-30 00:46:01,253 - INFO - Testing loss for epoch 14: 0.5345531527181061
+2025-03-30 00:46:01,253 - INFO - Testing accuracy for epoch 14: 74.23469387755102
+2025-03-30 00:46:01,253 - INFO - Testing F1 score for epoch 14: 0.6300366520881653
+
+2025-03-30 00:46:01,254 - INFO - Current Learning rate: [0.001]
+2025-03-30 00:46:05,050 - INFO - Checkpoint saved to E:/Work/My Papers/LT-EDI 2025/Caste and Migration Hate/Codebase/Train Data/Checkpoints/indic bert 1 lr3 d4 no trans\model_epoch_14.pth
+2025-03-30 00:47:59,125 - INFO - Training loss for epoch 15: 0.41500854205708937
+2025-03-30 00:47:59,125 - INFO - Training accuracy for epoch 15: 80.7209469153515
+2025-03-30 00:47:59,125 - INFO - Training F1 score for epoch 15: 0.7360667586326599
+2025-03-30 00:48:06,496 - INFO - Testing loss for epoch 15: 0.5174693875775045
+2025-03-30 00:48:06,496 - INFO - Testing accuracy for epoch 15: 75.0
+2025-03-30 00:48:06,496 - INFO - Testing F1 score for epoch 15: 0.6245210766792297
+
+2025-03-30 00:48:06,497 - INFO - Current Learning rate: [0.001]
+2025-03-30 00:48:29,164 - INFO - Checkpoint saved to E:/Work/My Papers/LT-EDI 2025/Caste and Migration Hate/Codebase/Train Data/Checkpoints/indic bert 1 lr3 d4 no trans\model_epoch_15.pth
+2025-03-30 00:50:23,488 - INFO - Training loss for epoch 16: 0.407788646240402
+2025-03-30 00:50:23,488 - INFO - Training accuracy for epoch 16: 81.36657101865136
+2025-03-30 00:50:23,488 - INFO - Training F1 score for epoch 16: 0.7414779663085938
+2025-03-30 00:50:30,643 - INFO - Testing loss for epoch 16: 0.5125416784870381
+2025-03-30 00:50:30,644 - INFO - Testing accuracy for epoch 16: 74.87244897959184
+2025-03-30 00:50:30,644 - INFO - Testing F1 score for epoch 16: 0.6398537755012512
+
+2025-03-30 00:50:30,644 - INFO - Current Learning rate: [0.001]
+2025-03-30 00:50:34,423 - INFO - Checkpoint saved to E:/Work/My Papers/LT-EDI 2025/Caste and Migration Hate/Codebase/Train Data/Checkpoints/indic bert 1 lr3 d4 no trans\model_epoch_16.pth
+2025-03-30 00:52:29,325 - INFO - Training loss for epoch 17: 0.39944621067563635
+2025-03-30 00:52:29,325 - INFO - Training accuracy for epoch 17: 80.97202295552367
+2025-03-30 00:52:29,326 - INFO - Training F1 score for epoch 17: 0.736789882183075
+2025-03-30 00:52:40,813 - INFO - Best model saved to E:/Work/My Papers/LT-EDI 2025/Caste and Migration Hate/Codebase/Train Data/Checkpoints/indic bert 1 lr3 d4 no trans\best_model.pth
+2025-03-30 00:52:40,813 - INFO - Testing loss for epoch 17: 0.5018095176438896
+2025-03-30 00:52:40,813 - INFO - Testing accuracy for epoch 17: 75.38265306122449
+2025-03-30 00:52:40,813 - INFO - Testing F1 score for epoch 17: 0.64716637134552
+
+2025-03-30 00:52:40,813 - INFO - Current Learning rate: [0.001]
+2025-03-30 00:52:44,926 - INFO - Checkpoint saved to E:/Work/My Papers/LT-EDI 2025/Caste and Migration Hate/Codebase/Train Data/Checkpoints/indic bert 1 lr3 d4 no trans\model_epoch_17.pth
+2025-03-30 00:54:40,122 - INFO - Training loss for epoch 18: 0.3978423053983978
+2025-03-30 00:54:40,123 - INFO - Training accuracy for epoch 18: 81.27690100430416
+2025-03-30 00:54:40,123 - INFO - Training F1 score for epoch 18: 0.7417120337486267
+2025-03-30 00:54:47,678 - INFO - Testing loss for epoch 18: 0.4844869651964733
+2025-03-30 00:54:47,678 - INFO - Testing accuracy for epoch 18: 76.53061224489795
+2025-03-30 00:54:47,678 - INFO - Testing F1 score for epoch 18: 0.640625
+
+2025-03-30 00:54:47,678 - INFO - Current Learning rate: [0.001]
+2025-03-30 00:54:51,512 - INFO - Checkpoint saved to E:/Work/My Papers/LT-EDI 2025/Caste and Migration Hate/Codebase/Train Data/Checkpoints/indic bert 1 lr3 d4 no trans\model_epoch_18.pth
+2025-03-30 00:56:46,616 - INFO - Training loss for epoch 19: 0.38216432415943064
+2025-03-30 00:56:46,616 - INFO - Training accuracy for epoch 19: 82.69368723098995
+2025-03-30 00:56:46,617 - INFO - Training F1 score for epoch 19: 0.7621394991874695
+2025-03-30 00:57:19,777 - INFO - Best model saved to E:/Work/My Papers/LT-EDI 2025/Caste and Migration Hate/Codebase/Train Data/Checkpoints/indic bert 1 lr3 d4 no trans\best_model.pth
+2025-03-30 00:57:19,777 - INFO - Testing loss for epoch 19: 0.5145965002629221
+2025-03-30 00:57:19,777 - INFO - Testing accuracy for epoch 19: 73.9795918367347
+2025-03-30 00:57:19,777 - INFO - Testing F1 score for epoch 19: 0.6600000262260437
+
+2025-03-30 00:57:19,778 - INFO - Current Learning rate: [0.001]
+2025-03-30 00:57:23,647 - INFO - Checkpoint saved to E:/Work/My Papers/LT-EDI 2025/Caste and Migration Hate/Codebase/Train Data/Checkpoints/indic bert 1 lr3 d4 no trans\model_epoch_19.pth
+2025-03-30 00:59:18,631 - INFO - Training loss for epoch 20: 0.3765470144930837
+2025-03-30 00:59:18,631 - INFO - Training accuracy for epoch 20: 82.3529411764706
+2025-03-30 00:59:18,632 - INFO - Training F1 score for epoch 20: 0.7585868239402771
+2025-03-30 00:59:25,950 - INFO - Testing loss for epoch 20: 0.48081211700123183
+2025-03-30 00:59:25,950 - INFO - Testing accuracy for epoch 20: 76.40306122448979
+2025-03-30 00:59:25,950 - INFO - Testing F1 score for epoch 20: 0.6593002080917358
+
+2025-03-30 00:59:25,951 - INFO - Current Learning rate: [0.001]
+2025-03-30 00:59:29,658 - INFO - Checkpoint saved to E:/Work/My Papers/LT-EDI 2025/Caste and Migration Hate/Codebase/Train Data/Checkpoints/indic bert 1 lr3 d4 no trans\model_epoch_20.pth
+2025-03-30 01:02:15,648 - INFO - Training loss for epoch 21: 0.3767444041786098
+2025-03-30 01:02:15,648 - INFO - Training accuracy for epoch 21: 83.17790530846484
+2025-03-30 01:02:15,648 - INFO - Training F1 score for epoch 21: 0.7713310718536377
+2025-03-30 01:02:36,298 - INFO - Best model saved to E:/Work/My Papers/LT-EDI 2025/Caste and Migration Hate/Codebase/Train Data/Checkpoints/indic bert 1 lr3 d4 no trans\best_model.pth
+2025-03-30 01:02:36,299 - INFO - Testing loss for epoch 21: 0.4732560272119483
+2025-03-30 01:02:36,299 - INFO - Testing accuracy for epoch 21: 76.53061224489795
+2025-03-30 01:02:36,299 - INFO - Testing F1 score for epoch 21: 0.6771929860115051
+
+2025-03-30 01:02:36,299 - INFO - Current Learning rate: [0.001]
+2025-03-30 01:02:40,797 - INFO - Checkpoint saved to E:/Work/My Papers/LT-EDI 2025/Caste and Migration Hate/Codebase/Train Data/Checkpoints/indic bert 1 lr3 d4 no trans\model_epoch_21.pth
+2025-03-30 01:05:42,213 - INFO - Training loss for epoch 22: 0.3603468681959545
+2025-03-30 01:05:42,213 - INFO - Training accuracy for epoch 22: 82.92682926829268
+2025-03-30 01:05:42,213 - INFO - Training F1 score for epoch 22: 0.7696030735969543
+2025-03-30 01:06:06,658 - INFO - Best model saved to E:/Work/My Papers/LT-EDI 2025/Caste and Migration Hate/Codebase/Train Data/Checkpoints/indic bert 1 lr3 d4 no trans\best_model.pth
+2025-03-30 01:06:06,658 - INFO - Testing loss for epoch 22: 0.529191896471442
+2025-03-30 01:06:06,658 - INFO - Testing accuracy for epoch 22: 74.87244897959184
+2025-03-30 01:06:06,658 - INFO - Testing F1 score for epoch 22: 0.6796748042106628
+
+2025-03-30 01:06:06,658 - INFO - Current Learning rate: [0.001]
+2025-03-30 01:06:24,345 - INFO - Checkpoint saved to E:/Work/My Papers/LT-EDI 2025/Caste and Migration Hate/Codebase/Train Data/Checkpoints/indic bert 1 lr3 d4 no trans\model_epoch_22.pth
+2025-03-30 01:10:18,437 - INFO - Training loss for epoch 23: 0.37821029449467
+2025-03-30 01:10:18,437 - INFO - Training accuracy for epoch 23: 82.8012912482066
+2025-03-30 01:10:18,437 - INFO - Training F1 score for epoch 23: 0.7654683589935303
+2025-03-30 01:10:36,596 - INFO - Best model saved to E:/Work/My Papers/LT-EDI 2025/Caste and Migration Hate/Codebase/Train Data/Checkpoints/indic bert 1 lr3 d4 no trans\best_model.pth
+2025-03-30 01:10:36,596 - INFO - Testing loss for epoch 23: 0.4983612992325608
+2025-03-30 01:10:36,597 - INFO - Testing accuracy for epoch 23: 75.38265306122449
+2025-03-30 01:10:36,597 - INFO - Testing F1 score for epoch 23: 0.6799336671829224
+
+2025-03-30 01:10:36,597 - INFO - Current Learning rate: [0.001]
+2025-03-30 01:10:40,814 - INFO - Checkpoint saved to E:/Work/My Papers/LT-EDI 2025/Caste and Migration Hate/Codebase/Train Data/Checkpoints/indic bert 1 lr3 d4 no trans\model_epoch_23.pth

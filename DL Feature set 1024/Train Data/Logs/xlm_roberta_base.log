@@ -1,0 +1,596 @@
+2025-04-16 23:03:22,893 - INFO - Using device: cuda
+2025-04-16 23:03:22,897 - INFO - Starting training for 64 epochs from scratch
+2025-04-16 23:04:21,534 - INFO - Training loss for epoch 1: 0.6676382281132032
+2025-04-16 23:04:21,534 - INFO - Training accuracy for epoch 1: 62.248923959827835
+2025-04-16 23:04:21,534 - INFO - Training F1 score for epoch 1: 0.35130971670150757
+2025-04-16 23:04:27,132 - INFO - Best model saved to ../Train Data/Checkpoints/xlm roberta base\best_model.pth
+2025-04-16 23:04:27,133 - INFO - Testing loss for epoch 1: 0.6390718218623376
+2025-04-16 23:04:27,133 - INFO - Testing accuracy for epoch 1: 64.9234693877551
+2025-04-16 23:04:27,133 - INFO - Testing F1 score for epoch 1: 0.42588725686073303
+
+2025-04-16 23:04:27,133 - INFO - Current Learning rate: [0.001]
+2025-04-16 23:04:29,772 - INFO - Checkpoint saved to ../Train Data/Checkpoints/xlm roberta base\model_epoch_1.pth
+2025-04-16 23:05:28,509 - INFO - Training loss for epoch 2: 0.5963102517117729
+2025-04-16 23:05:28,509 - INFO - Training accuracy for epoch 2: 68.47202295552367
+2025-04-16 23:05:28,509 - INFO - Training F1 score for epoch 2: 0.5122086405754089
+2025-04-16 23:05:31,241 - INFO - Testing loss for epoch 2: 0.6050458872804836
+2025-04-16 23:05:31,241 - INFO - Testing accuracy for epoch 2: 66.70918367346938
+2025-04-16 23:05:31,241 - INFO - Testing F1 score for epoch 2: 0.4054669737815857
+
+2025-04-16 23:05:31,241 - INFO - Current Learning rate: [0.001]
+2025-04-16 23:05:34,180 - INFO - Checkpoint saved to ../Train Data/Checkpoints/xlm roberta base\model_epoch_2.pth
+2025-04-16 23:06:33,200 - INFO - Training loss for epoch 3: 0.5676139460574605
+2025-04-16 23:06:33,200 - INFO - Training accuracy for epoch 3: 70.2116212338594
+2025-04-16 23:06:33,200 - INFO - Training F1 score for epoch 3: 0.5623188614845276
+2025-04-16 23:06:39,088 - INFO - Best model saved to ../Train Data/Checkpoints/xlm roberta base\best_model.pth
+2025-04-16 23:06:39,089 - INFO - Testing loss for epoch 3: 0.601692154395337
+2025-04-16 23:06:39,089 - INFO - Testing accuracy for epoch 3: 67.47448979591837
+2025-04-16 23:06:39,089 - INFO - Testing F1 score for epoch 3: 0.48897796869277954
+
+2025-04-16 23:06:39,089 - INFO - Current Learning rate: [0.001]
+2025-04-16 23:06:41,715 - INFO - Checkpoint saved to ../Train Data/Checkpoints/xlm roberta base\model_epoch_3.pth
+2025-04-16 23:07:40,263 - INFO - Training loss for epoch 4: 0.5481995559234701
+2025-04-16 23:07:40,263 - INFO - Training accuracy for epoch 4: 71.96915351506456
+2025-04-16 23:07:40,263 - INFO - Training F1 score for epoch 4: 0.5881422758102417
+2025-04-16 23:07:43,079 - INFO - Testing loss for epoch 4: 0.5896353162064845
+2025-04-16 23:07:43,079 - INFO - Testing accuracy for epoch 4: 67.85714285714286
+2025-04-16 23:07:43,080 - INFO - Testing F1 score for epoch 4: 0.4521739184856415
+
+2025-04-16 23:07:43,080 - INFO - Current Learning rate: [0.001]
+2025-04-16 23:07:45,961 - INFO - Checkpoint saved to ../Train Data/Checkpoints/xlm roberta base\model_epoch_4.pth
+2025-04-16 23:08:44,782 - INFO - Training loss for epoch 5: 0.5292399712067253
+2025-04-16 23:08:44,783 - INFO - Training accuracy for epoch 5: 74.26470588235294
+2025-04-16 23:08:44,783 - INFO - Training F1 score for epoch 5: 0.6287192702293396
+2025-04-16 23:08:50,532 - INFO - Best model saved to ../Train Data/Checkpoints/xlm roberta base\best_model.pth
+2025-04-16 23:08:50,533 - INFO - Testing loss for epoch 5: 0.5915445661058232
+2025-04-16 23:08:50,533 - INFO - Testing accuracy for epoch 5: 69.00510204081633
+2025-04-16 23:08:50,533 - INFO - Testing F1 score for epoch 5: 0.5188118815422058
+
+2025-04-16 23:08:50,533 - INFO - Current Learning rate: [0.001]
+2025-04-16 23:08:53,148 - INFO - Checkpoint saved to ../Train Data/Checkpoints/xlm roberta base\model_epoch_5.pth
+2025-04-16 23:09:51,998 - INFO - Training loss for epoch 6: 0.5096566672176337
+2025-04-16 23:09:51,998 - INFO - Training accuracy for epoch 6: 74.55164992826398
+2025-04-16 23:09:51,998 - INFO - Training F1 score for epoch 6: 0.6479781866073608
+2025-04-16 23:09:54,715 - INFO - Testing loss for epoch 6: 0.586031581370198
+2025-04-16 23:09:54,715 - INFO - Testing accuracy for epoch 6: 70.02551020408163
+2025-04-16 23:09:54,715 - INFO - Testing F1 score for epoch 6: 0.47191011905670166
+
+2025-04-16 23:09:54,715 - INFO - Current Learning rate: [0.001]
+2025-04-16 23:09:57,582 - INFO - Checkpoint saved to ../Train Data/Checkpoints/xlm roberta base\model_epoch_6.pth
+2025-04-16 23:10:56,286 - INFO - Training loss for epoch 7: 0.4967637693822127
+2025-04-16 23:10:56,286 - INFO - Training accuracy for epoch 7: 76.36298421807747
+2025-04-16 23:10:56,286 - INFO - Training F1 score for epoch 7: 0.6834774017333984
+2025-04-16 23:11:01,948 - INFO - Best model saved to ../Train Data/Checkpoints/xlm roberta base\best_model.pth
+2025-04-16 23:11:01,948 - INFO - Testing loss for epoch 7: 0.5717786796847169
+2025-04-16 23:11:01,948 - INFO - Testing accuracy for epoch 7: 71.04591836734694
+2025-04-16 23:11:01,949 - INFO - Testing F1 score for epoch 7: 0.5626204013824463
+
+2025-04-16 23:11:01,949 - INFO - Current Learning rate: [0.001]
+2025-04-16 23:11:04,551 - INFO - Checkpoint saved to ../Train Data/Checkpoints/xlm roberta base\model_epoch_7.pth
+2025-04-16 23:12:03,099 - INFO - Training loss for epoch 8: 0.47057554638881766
+2025-04-16 23:12:03,099 - INFO - Training accuracy for epoch 8: 77.85150645624103
+2025-04-16 23:12:03,099 - INFO - Training F1 score for epoch 8: 0.7010409235954285
+2025-04-16 23:12:10,467 - INFO - Best model saved to ../Train Data/Checkpoints/xlm roberta base\best_model.pth
+2025-04-16 23:12:10,467 - INFO - Testing loss for epoch 8: 0.5352721040954396
+2025-04-16 23:12:10,468 - INFO - Testing accuracy for epoch 8: 73.34183673469387
+2025-04-16 23:12:10,468 - INFO - Testing F1 score for epoch 8: 0.5777778029441833
+
+2025-04-16 23:12:10,468 - INFO - Current Learning rate: [0.001]
+2025-04-16 23:12:16,594 - INFO - Checkpoint saved to ../Train Data/Checkpoints/xlm roberta base\model_epoch_8.pth
+2025-04-16 23:13:15,358 - INFO - Training loss for epoch 9: 0.43990108127060373
+2025-04-16 23:13:15,358 - INFO - Training accuracy for epoch 9: 79.8780487804878
+2025-04-16 23:13:15,358 - INFO - Training F1 score for epoch 9: 0.7283293008804321
+2025-04-16 23:13:22,417 - INFO - Best model saved to ../Train Data/Checkpoints/xlm roberta base\best_model.pth
+2025-04-16 23:13:22,417 - INFO - Testing loss for epoch 9: 0.52993499746128
+2025-04-16 23:13:22,417 - INFO - Testing accuracy for epoch 9: 74.74489795918367
+2025-04-16 23:13:22,417 - INFO - Testing F1 score for epoch 9: 0.6086956262588501
+
+2025-04-16 23:13:22,417 - INFO - Current Learning rate: [0.001]
+2025-04-16 23:13:28,529 - INFO - Checkpoint saved to ../Train Data/Checkpoints/xlm roberta base\model_epoch_9.pth
+2025-04-16 23:14:26,924 - INFO - Training loss for epoch 10: 0.42587733626836
+2025-04-16 23:14:26,924 - INFO - Training accuracy for epoch 10: 80.29053084648494
+2025-04-16 23:14:26,924 - INFO - Training F1 score for epoch 10: 0.735499382019043
+2025-04-16 23:14:32,623 - INFO - Best model saved to ../Train Data/Checkpoints/xlm roberta base\best_model.pth
+2025-04-16 23:14:32,623 - INFO - Testing loss for epoch 10: 0.49906727473954765
+2025-04-16 23:14:32,624 - INFO - Testing accuracy for epoch 10: 76.40306122448979
+2025-04-16 23:14:32,624 - INFO - Testing F1 score for epoch 10: 0.6642467975616455
+
+2025-04-16 23:14:32,624 - INFO - Current Learning rate: [0.001]
+2025-04-16 23:14:35,252 - INFO - Checkpoint saved to ../Train Data/Checkpoints/xlm roberta base\model_epoch_10.pth
+2025-04-16 23:15:33,546 - INFO - Training loss for epoch 11: 0.3849384897365803
+2025-04-16 23:15:33,547 - INFO - Training accuracy for epoch 11: 83.1958393113343
+2025-04-16 23:15:33,547 - INFO - Training F1 score for epoch 11: 0.7769578695297241
+2025-04-16 23:15:36,255 - INFO - Testing loss for epoch 11: 0.49838221187190135
+2025-04-16 23:15:36,255 - INFO - Testing accuracy for epoch 11: 77.04081632653062
+2025-04-16 23:15:36,255 - INFO - Testing F1 score for epoch 11: 0.6641790866851807
+
+2025-04-16 23:15:36,255 - INFO - Current Learning rate: [0.001]
+2025-04-16 23:15:39,070 - INFO - Checkpoint saved to ../Train Data/Checkpoints/xlm roberta base\model_epoch_11.pth
+2025-04-16 23:16:36,855 - INFO - Training loss for epoch 12: 0.3808757839684336
+2025-04-16 23:16:36,855 - INFO - Training accuracy for epoch 12: 83.62625538020086
+2025-04-16 23:16:36,855 - INFO - Training F1 score for epoch 12: 0.7807922959327698
+2025-04-16 23:16:42,733 - INFO - Best model saved to ../Train Data/Checkpoints/xlm roberta base\best_model.pth
+2025-04-16 23:16:42,733 - INFO - Testing loss for epoch 12: 0.46798855378007403
+2025-04-16 23:16:42,733 - INFO - Testing accuracy for epoch 12: 79.20918367346938
+2025-04-16 23:16:42,733 - INFO - Testing F1 score for epoch 12: 0.6964617967605591
+
+2025-04-16 23:16:42,733 - INFO - Current Learning rate: [0.001]
+2025-04-16 23:16:49,889 - INFO - Checkpoint saved to ../Train Data/Checkpoints/xlm roberta base\model_epoch_12.pth
+2025-04-16 23:17:47,429 - INFO - Training loss for epoch 13: 0.37612004072500266
+2025-04-16 23:17:47,430 - INFO - Training accuracy for epoch 13: 83.9131994261119
+2025-04-16 23:17:47,430 - INFO - Training F1 score for epoch 13: 0.7881936430931091
+2025-04-16 23:17:50,152 - INFO - Testing loss for epoch 13: 0.4687130540913465
+2025-04-16 23:17:50,152 - INFO - Testing accuracy for epoch 13: 78.06122448979592
+2025-04-16 23:17:50,153 - INFO - Testing F1 score for epoch 13: 0.6573705077171326
+
+2025-04-16 23:17:50,153 - INFO - Current Learning rate: [0.001]
+2025-04-16 23:17:52,821 - INFO - Checkpoint saved to ../Train Data/Checkpoints/xlm roberta base\model_epoch_13.pth
+2025-04-16 23:18:50,456 - INFO - Training loss for epoch 14: 0.3498312768925895
+2025-04-16 23:18:50,456 - INFO - Training accuracy for epoch 14: 85.34791965566714
+2025-04-16 23:18:50,456 - INFO - Training F1 score for epoch 14: 0.8069926500320435
+2025-04-16 23:18:57,544 - INFO - Best model saved to ../Train Data/Checkpoints/xlm roberta base\best_model.pth
+2025-04-16 23:18:57,545 - INFO - Testing loss for epoch 14: 0.4491894230702702
+2025-04-16 23:18:57,545 - INFO - Testing accuracy for epoch 14: 80.2295918367347
+2025-04-16 23:18:57,545 - INFO - Testing F1 score for epoch 14: 0.719710648059845
+
+2025-04-16 23:18:57,545 - INFO - Current Learning rate: [0.001]
+2025-04-16 23:19:01,618 - INFO - Checkpoint saved to ../Train Data/Checkpoints/xlm roberta base\model_epoch_14.pth
+2025-04-16 23:19:59,139 - INFO - Training loss for epoch 15: 0.3367076402949637
+2025-04-16 23:19:59,139 - INFO - Training accuracy for epoch 15: 86.26255380200861
+2025-04-16 23:19:59,139 - INFO - Training F1 score for epoch 15: 0.8218604922294617
+2025-04-16 23:20:01,854 - INFO - Testing loss for epoch 15: 0.4764460611860363
+2025-04-16 23:20:01,854 - INFO - Testing accuracy for epoch 15: 78.4438775510204
+2025-04-16 23:20:01,854 - INFO - Testing F1 score for epoch 15: 0.7101200819015503
+
+2025-04-16 23:20:01,854 - INFO - Current Learning rate: [0.001]
+2025-04-16 23:20:04,575 - INFO - Checkpoint saved to ../Train Data/Checkpoints/xlm roberta base\model_epoch_15.pth
+2025-04-16 23:21:02,367 - INFO - Training loss for epoch 16: 0.33297799599799227
+2025-04-16 23:21:02,367 - INFO - Training accuracy for epoch 16: 85.99354375896701
+2025-04-16 23:21:02,367 - INFO - Training F1 score for epoch 16: 0.8165374398231506
+2025-04-16 23:21:08,060 - INFO - Best model saved to ../Train Data/Checkpoints/xlm roberta base\best_model.pth
+2025-04-16 23:21:08,060 - INFO - Testing loss for epoch 16: 0.4624935894900439
+2025-04-16 23:21:08,060 - INFO - Testing accuracy for epoch 16: 78.69897959183673
+2025-04-16 23:21:08,060 - INFO - Testing F1 score for epoch 16: 0.7239669561386108
+
+2025-04-16 23:21:08,061 - INFO - Current Learning rate: [0.001]
+2025-04-16 23:21:10,620 - INFO - Checkpoint saved to ../Train Data/Checkpoints/xlm roberta base\model_epoch_16.pth
+2025-04-16 23:22:08,552 - INFO - Training loss for epoch 17: 0.3117438884802066
+2025-04-16 23:22:08,552 - INFO - Training accuracy for epoch 17: 87.24892395982783
+2025-04-16 23:22:08,553 - INFO - Training F1 score for epoch 17: 0.8295372724533081
+2025-04-16 23:22:14,156 - INFO - Best model saved to ../Train Data/Checkpoints/xlm roberta base\best_model.pth
+2025-04-16 23:22:14,156 - INFO - Testing loss for epoch 17: 0.4615994824134574
+2025-04-16 23:22:14,157 - INFO - Testing accuracy for epoch 17: 80.86734693877551
+2025-04-16 23:22:14,157 - INFO - Testing F1 score for epoch 17: 0.7457627058029175
+
+2025-04-16 23:22:14,157 - INFO - Current Learning rate: [0.0005]
+2025-04-16 23:22:16,796 - INFO - Checkpoint saved to ../Train Data/Checkpoints/xlm roberta base\model_epoch_17.pth
+2025-04-16 23:23:14,944 - INFO - Training loss for epoch 18: 0.2850187608499182
+2025-04-16 23:23:14,945 - INFO - Training accuracy for epoch 18: 88.46843615494979
+2025-04-16 23:23:14,945 - INFO - Training F1 score for epoch 18: 0.8492379784584045
+2025-04-16 23:23:23,144 - INFO - Best model saved to ../Train Data/Checkpoints/xlm roberta base\best_model.pth
+2025-04-16 23:23:23,145 - INFO - Testing loss for epoch 18: 0.4375826006337088
+2025-04-16 23:23:23,145 - INFO - Testing accuracy for epoch 18: 82.65306122448979
+2025-04-16 23:23:23,145 - INFO - Testing F1 score for epoch 18: 0.761403501033783
+
+2025-04-16 23:23:23,145 - INFO - Current Learning rate: [0.0005]
+2025-04-16 23:23:28,182 - INFO - Checkpoint saved to ../Train Data/Checkpoints/xlm roberta base\model_epoch_18.pth
+2025-04-16 23:24:26,419 - INFO - Training loss for epoch 19: 0.2509651635793523
+2025-04-16 23:24:26,420 - INFO - Training accuracy for epoch 19: 90.10043041606886
+2025-04-16 23:24:26,420 - INFO - Training F1 score for epoch 19: 0.8693800568580627
+2025-04-16 23:24:29,085 - INFO - Testing loss for epoch 19: 0.4212524625947889
+2025-04-16 23:24:29,085 - INFO - Testing accuracy for epoch 19: 82.39795918367346
+2025-04-16 23:24:29,085 - INFO - Testing F1 score for epoch 19: 0.7587412595748901
+
+2025-04-16 23:24:29,085 - INFO - Current Learning rate: [0.0005]
+2025-04-16 23:24:33,964 - INFO - Checkpoint saved to ../Train Data/Checkpoints/xlm roberta base\model_epoch_19.pth
+2025-04-16 23:25:33,029 - INFO - Training loss for epoch 20: 0.25531100778649407
+2025-04-16 23:25:33,029 - INFO - Training accuracy for epoch 20: 90.33357245337159
+2025-04-16 23:25:33,029 - INFO - Training F1 score for epoch 20: 0.8732659220695496
+2025-04-16 23:25:35,760 - INFO - Testing loss for epoch 20: 0.4615635672318084
+2025-04-16 23:25:35,761 - INFO - Testing accuracy for epoch 20: 80.86734693877551
+2025-04-16 23:25:35,761 - INFO - Testing F1 score for epoch 20: 0.7023809552192688
+
+2025-04-16 23:25:35,761 - INFO - Current Learning rate: [0.0005]
+2025-04-16 23:25:38,532 - INFO - Checkpoint saved to ../Train Data/Checkpoints/xlm roberta base\model_epoch_20.pth
+2025-04-16 23:26:37,332 - INFO - Training loss for epoch 21: 0.2222554878020389
+2025-04-16 23:26:37,332 - INFO - Training accuracy for epoch 21: 91.73242467718795
+2025-04-16 23:26:37,332 - INFO - Training F1 score for epoch 21: 0.8926658630371094
+2025-04-16 23:26:40,229 - INFO - Testing loss for epoch 21: 0.4263694345646975
+2025-04-16 23:26:40,229 - INFO - Testing accuracy for epoch 21: 81.63265306122449
+2025-04-16 23:26:40,230 - INFO - Testing F1 score for epoch 21: 0.75
+
+2025-04-16 23:26:40,230 - INFO - Current Learning rate: [0.0005]
+2025-04-16 23:26:48,966 - INFO - Checkpoint saved to ../Train Data/Checkpoints/xlm roberta base\model_epoch_21.pth
+2025-04-16 23:27:47,688 - INFO - Training loss for epoch 22: 0.23495622406014838
+2025-04-16 23:27:47,688 - INFO - Training accuracy for epoch 22: 91.2661406025825
+2025-04-16 23:27:47,688 - INFO - Training F1 score for epoch 22: 0.8868231177330017
+2025-04-16 23:27:50,414 - INFO - Testing loss for epoch 22: 0.43802678949978885
+2025-04-16 23:27:50,414 - INFO - Testing accuracy for epoch 22: 81.37755102040816
+2025-04-16 23:27:50,414 - INFO - Testing F1 score for epoch 22: 0.7533783912658691
+
+2025-04-16 23:27:50,414 - INFO - Current Learning rate: [0.00025]
+2025-04-16 23:27:53,159 - INFO - Checkpoint saved to ../Train Data/Checkpoints/xlm roberta base\model_epoch_22.pth
+2025-04-16 23:28:51,770 - INFO - Training loss for epoch 23: 0.1956053476345056
+2025-04-16 23:28:51,770 - INFO - Training accuracy for epoch 23: 92.75466284074605
+2025-04-16 23:28:51,770 - INFO - Training F1 score for epoch 23: 0.905827522277832
+2025-04-16 23:28:57,681 - INFO - Best model saved to ../Train Data/Checkpoints/xlm roberta base\best_model.pth
+2025-04-16 23:28:57,681 - INFO - Testing loss for epoch 23: 0.4325530074004616
+2025-04-16 23:28:57,681 - INFO - Testing accuracy for epoch 23: 82.90816326530613
+2025-04-16 23:28:57,682 - INFO - Testing F1 score for epoch 23: 0.76241135597229
+
+2025-04-16 23:28:57,682 - INFO - Current Learning rate: [0.00025]
+2025-04-16 23:29:02,867 - INFO - Checkpoint saved to ../Train Data/Checkpoints/xlm roberta base\model_epoch_23.pth
+2025-04-16 23:30:01,470 - INFO - Training loss for epoch 24: 0.19685285010240128
+2025-04-16 23:30:01,470 - INFO - Training accuracy for epoch 24: 92.70086083213774
+2025-04-16 23:30:01,470 - INFO - Training F1 score for epoch 24: 0.9050174951553345
+2025-04-16 23:30:04,129 - INFO - Testing loss for epoch 24: 0.4204386513756246
+2025-04-16 23:30:04,129 - INFO - Testing accuracy for epoch 24: 82.65306122448979
+2025-04-16 23:30:04,129 - INFO - Testing F1 score for epoch 24: 0.7605633735656738
+
+2025-04-16 23:30:04,129 - INFO - Current Learning rate: [0.00025]
+2025-04-16 23:30:06,881 - INFO - Checkpoint saved to ../Train Data/Checkpoints/xlm roberta base\model_epoch_24.pth
+2025-04-16 23:31:06,710 - INFO - Training loss for epoch 25: 0.17720993022384973
+2025-04-16 23:31:06,710 - INFO - Training accuracy for epoch 25: 93.86657101865136
+2025-04-16 23:31:06,710 - INFO - Training F1 score for epoch 25: 0.9207599759101868
+2025-04-16 23:31:12,659 - INFO - Best model saved to ../Train Data/Checkpoints/xlm roberta base\best_model.pth
+2025-04-16 23:31:12,660 - INFO - Testing loss for epoch 25: 0.41887403766111453
+2025-04-16 23:31:12,660 - INFO - Testing accuracy for epoch 25: 83.80102040816327
+2025-04-16 23:31:12,660 - INFO - Testing F1 score for epoch 25: 0.7678244709968567
+
+2025-04-16 23:31:12,660 - INFO - Current Learning rate: [0.00025]
+2025-04-16 23:31:15,590 - INFO - Checkpoint saved to ../Train Data/Checkpoints/xlm roberta base\model_epoch_25.pth
+2025-04-16 23:32:14,681 - INFO - Training loss for epoch 26: 0.17330432581011115
+2025-04-16 23:32:14,682 - INFO - Training accuracy for epoch 26: 94.2790530846485
+2025-04-16 23:32:14,682 - INFO - Training F1 score for epoch 26: 0.9262768626213074
+2025-04-16 23:32:17,373 - INFO - Testing loss for epoch 26: 0.40413990350706236
+2025-04-16 23:32:17,373 - INFO - Testing accuracy for epoch 26: 82.01530612244898
+2025-04-16 23:32:17,373 - INFO - Testing F1 score for epoch 26: 0.7564767003059387
+
+2025-04-16 23:32:17,373 - INFO - Current Learning rate: [0.00025]
+2025-04-16 23:32:22,783 - INFO - Checkpoint saved to ../Train Data/Checkpoints/xlm roberta base\model_epoch_26.pth
+2025-04-16 23:33:21,809 - INFO - Training loss for epoch 27: 0.15798311879847685
+2025-04-16 23:33:21,809 - INFO - Training accuracy for epoch 27: 94.76327116212339
+2025-04-16 23:33:21,809 - INFO - Training F1 score for epoch 27: 0.9316479563713074
+2025-04-16 23:33:24,719 - INFO - Testing loss for epoch 27: 0.41491903714379486
+2025-04-16 23:33:24,719 - INFO - Testing accuracy for epoch 27: 81.50510204081633
+2025-04-16 23:33:24,720 - INFO - Testing F1 score for epoch 27: 0.7649918794631958
+
+2025-04-16 23:33:24,720 - INFO - Current Learning rate: [0.00025]
+2025-04-16 23:33:29,986 - INFO - Checkpoint saved to ../Train Data/Checkpoints/xlm roberta base\model_epoch_27.pth
+2025-04-16 23:34:28,756 - INFO - Training loss for epoch 28: 0.1523310364534012
+2025-04-16 23:34:28,756 - INFO - Training accuracy for epoch 28: 94.70946915351506
+2025-04-16 23:34:28,756 - INFO - Training F1 score for epoch 28: 0.931506872177124
+2025-04-16 23:34:31,524 - INFO - Testing loss for epoch 28: 0.4149511168349762
+2025-04-16 23:34:31,524 - INFO - Testing accuracy for epoch 28: 83.16326530612245
+2025-04-16 23:34:31,524 - INFO - Testing F1 score for epoch 28: 0.7642857432365417
+
+2025-04-16 23:34:31,525 - INFO - Current Learning rate: [0.00025]
+2025-04-16 23:34:36,562 - INFO - Checkpoint saved to ../Train Data/Checkpoints/xlm roberta base\model_epoch_28.pth
+2025-04-16 23:35:35,268 - INFO - Training loss for epoch 29: 0.15961339935751223
+2025-04-16 23:35:35,268 - INFO - Training accuracy for epoch 29: 94.40459110473458
+2025-04-16 23:35:35,268 - INFO - Training F1 score for epoch 29: 0.9273404479026794
+2025-04-16 23:35:41,857 - INFO - Best model saved to ../Train Data/Checkpoints/xlm roberta base\best_model.pth
+2025-04-16 23:35:41,858 - INFO - Testing loss for epoch 29: 0.4094730170861799
+2025-04-16 23:35:41,858 - INFO - Testing accuracy for epoch 29: 83.29081632653062
+2025-04-16 23:35:41,858 - INFO - Testing F1 score for epoch 29: 0.7697715163230896
+
+2025-04-16 23:35:41,858 - INFO - Current Learning rate: [0.000125]
+2025-04-16 23:35:45,970 - INFO - Checkpoint saved to ../Train Data/Checkpoints/xlm roberta base\model_epoch_29.pth
+2025-04-16 23:36:44,479 - INFO - Training loss for epoch 30: 0.13472541623315915
+2025-04-16 23:36:44,479 - INFO - Training accuracy for epoch 30: 95.48063127690101
+2025-04-16 23:36:44,479 - INFO - Training F1 score for epoch 30: 0.9412038922309875
+2025-04-16 23:36:47,095 - INFO - Testing loss for epoch 30: 0.4371690853517883
+2025-04-16 23:36:47,095 - INFO - Testing accuracy for epoch 30: 83.03571428571429
+2025-04-16 23:36:47,095 - INFO - Testing F1 score for epoch 30: 0.7568555474281311
+
+2025-04-16 23:36:47,096 - INFO - Current Learning rate: [0.000125]
+2025-04-16 23:36:50,512 - INFO - Checkpoint saved to ../Train Data/Checkpoints/xlm roberta base\model_epoch_30.pth
+2025-04-16 23:37:49,067 - INFO - Training loss for epoch 31: 0.15042821124030364
+2025-04-16 23:37:49,068 - INFO - Training accuracy for epoch 31: 94.83500717360114
+2025-04-16 23:37:49,068 - INFO - Training F1 score for epoch 31: 0.9332096576690674
+2025-04-16 23:37:51,974 - INFO - Testing loss for epoch 31: 0.4073982218622553
+2025-04-16 23:37:51,974 - INFO - Testing accuracy for epoch 31: 83.41836734693878
+2025-04-16 23:37:51,974 - INFO - Testing F1 score for epoch 31: 0.7537878751754761
+
+2025-04-16 23:37:51,974 - INFO - Current Learning rate: [0.000125]
+2025-04-16 23:37:54,712 - INFO - Checkpoint saved to ../Train Data/Checkpoints/xlm roberta base\model_epoch_31.pth
+2025-04-16 23:38:53,214 - INFO - Training loss for epoch 32: 0.140759457627624
+2025-04-16 23:38:53,214 - INFO - Training accuracy for epoch 32: 95.06814921090387
+2025-04-16 23:38:53,214 - INFO - Training F1 score for epoch 32: 0.9358226656913757
+2025-04-16 23:38:55,960 - INFO - Testing loss for epoch 32: 0.4192298356139538
+2025-04-16 23:38:55,960 - INFO - Testing accuracy for epoch 32: 82.65306122448979
+2025-04-16 23:38:55,960 - INFO - Testing F1 score for epoch 32: 0.767123281955719
+
+2025-04-16 23:38:55,960 - INFO - Current Learning rate: [6.25e-05]
+2025-04-16 23:38:58,643 - INFO - Checkpoint saved to ../Train Data/Checkpoints/xlm roberta base\model_epoch_32.pth
+2025-04-16 23:39:57,437 - INFO - Training loss for epoch 33: 0.12241790928561214
+2025-04-16 23:39:57,437 - INFO - Training accuracy for epoch 33: 95.67790530846484
+2025-04-16 23:39:57,437 - INFO - Training F1 score for epoch 33: 0.9439143538475037
+2025-04-16 23:40:00,116 - INFO - Testing loss for epoch 33: 0.4059050183135028
+2025-04-16 23:40:00,116 - INFO - Testing accuracy for epoch 33: 82.90816326530613
+2025-04-16 23:40:00,116 - INFO - Testing F1 score for epoch 33: 0.7632508873939514
+
+2025-04-16 23:40:00,116 - INFO - Current Learning rate: [6.25e-05]
+2025-04-16 23:40:02,893 - INFO - Checkpoint saved to ../Train Data/Checkpoints/xlm roberta base\model_epoch_33.pth
+2025-04-16 23:41:01,709 - INFO - Training loss for epoch 34: 0.12514578479968835
+2025-04-16 23:41:01,709 - INFO - Training accuracy for epoch 34: 95.80344332855093
+2025-04-16 23:41:01,709 - INFO - Training F1 score for epoch 34: 0.9454290866851807
+2025-04-16 23:41:04,350 - INFO - Testing loss for epoch 34: 0.41011685946462106
+2025-04-16 23:41:04,350 - INFO - Testing accuracy for epoch 34: 83.03571428571429
+2025-04-16 23:41:04,350 - INFO - Testing F1 score for epoch 34: 0.7612208127975464
+
+2025-04-16 23:41:04,350 - INFO - Current Learning rate: [6.25e-05]
+2025-04-16 23:41:08,846 - INFO - Checkpoint saved to ../Train Data/Checkpoints/xlm roberta base\model_epoch_34.pth
+2025-04-16 23:42:07,543 - INFO - Training loss for epoch 35: 0.12100188107492998
+2025-04-16 23:42:07,543 - INFO - Training accuracy for epoch 35: 96.10832137733142
+2025-04-16 23:42:07,543 - INFO - Training F1 score for epoch 35: 0.9494761228561401
+2025-04-16 23:42:10,262 - INFO - Testing loss for epoch 35: 0.4106539718198533
+2025-04-16 23:42:10,262 - INFO - Testing accuracy for epoch 35: 83.03571428571429
+2025-04-16 23:42:10,262 - INFO - Testing F1 score for epoch 35: 0.7523277401924133
+
+2025-04-16 23:42:10,262 - INFO - Current Learning rate: [3.125e-05]
+2025-04-16 23:42:14,170 - INFO - Checkpoint saved to ../Train Data/Checkpoints/xlm roberta base\model_epoch_35.pth
+2025-04-16 23:43:12,940 - INFO - Training loss for epoch 36: 0.12635751676223264
+2025-04-16 23:43:12,940 - INFO - Training accuracy for epoch 36: 95.64203730272597
+2025-04-16 23:43:12,940 - INFO - Training F1 score for epoch 36: 0.9432640671730042
+2025-04-16 23:43:15,708 - INFO - Testing loss for epoch 36: 0.40898117141760126
+2025-04-16 23:43:15,708 - INFO - Testing accuracy for epoch 36: 83.16326530612245
+2025-04-16 23:43:15,708 - INFO - Testing F1 score for epoch 36: 0.7599999904632568
+
+2025-04-16 23:43:15,708 - INFO - Current Learning rate: [3.125e-05]
+2025-04-16 23:43:18,463 - INFO - Checkpoint saved to ../Train Data/Checkpoints/xlm roberta base\model_epoch_36.pth
+2025-04-16 23:44:17,005 - INFO - Training loss for epoch 37: 0.11355619858937015
+2025-04-16 23:44:17,005 - INFO - Training accuracy for epoch 37: 96.07245337159254
+2025-04-16 23:44:17,005 - INFO - Training F1 score for epoch 37: 0.9487239718437195
+2025-04-16 23:44:19,673 - INFO - Testing loss for epoch 37: 0.41630517417679025
+2025-04-16 23:44:19,673 - INFO - Testing accuracy for epoch 37: 82.52551020408163
+2025-04-16 23:44:19,673 - INFO - Testing F1 score for epoch 37: 0.7467652559280396
+
+2025-04-16 23:44:19,673 - INFO - Current Learning rate: [3.125e-05]
+2025-04-16 23:44:22,360 - INFO - Checkpoint saved to ../Train Data/Checkpoints/xlm roberta base\model_epoch_37.pth
+2025-04-16 23:45:21,089 - INFO - Training loss for epoch 38: 0.12167790388639006
+2025-04-16 23:45:21,089 - INFO - Training accuracy for epoch 38: 95.60616929698709
+2025-04-16 23:45:21,089 - INFO - Training F1 score for epoch 38: 0.9431949853897095
+2025-04-16 23:45:23,878 - INFO - Testing loss for epoch 38: 0.4051561930349895
+2025-04-16 23:45:23,878 - INFO - Testing accuracy for epoch 38: 83.16326530612245
+2025-04-16 23:45:23,878 - INFO - Testing F1 score for epoch 38: 0.7692307829856873
+
+2025-04-16 23:45:23,878 - INFO - Current Learning rate: [1.5625e-05]
+2025-04-16 23:45:26,600 - INFO - Checkpoint saved to ../Train Data/Checkpoints/xlm roberta base\model_epoch_38.pth
+2025-04-16 23:46:24,891 - INFO - Training loss for epoch 39: 0.10529198650827891
+2025-04-16 23:46:24,891 - INFO - Training accuracy for epoch 39: 96.39526542324246
+2025-04-16 23:46:24,891 - INFO - Training F1 score for epoch 39: 0.9531359076499939
+2025-04-16 23:46:27,580 - INFO - Testing loss for epoch 39: 0.3954366974304525
+2025-04-16 23:46:27,580 - INFO - Testing accuracy for epoch 39: 82.52551020408163
+2025-04-16 23:46:27,581 - INFO - Testing F1 score for epoch 39: 0.7557932138442993
+
+2025-04-16 23:46:27,581 - INFO - Current Learning rate: [1.5625e-05]
+2025-04-16 23:46:30,696 - INFO - Checkpoint saved to ../Train Data/Checkpoints/xlm roberta base\model_epoch_39.pth
+2025-04-16 23:47:29,353 - INFO - Training loss for epoch 40: 0.12267192809707572
+2025-04-16 23:47:29,353 - INFO - Training accuracy for epoch 40: 96.05451936872309
+2025-04-16 23:47:29,353 - INFO - Training F1 score for epoch 40: 0.9486700892448425
+2025-04-16 23:47:32,077 - INFO - Testing loss for epoch 40: 0.41294403028275284
+2025-04-16 23:47:32,077 - INFO - Testing accuracy for epoch 40: 83.16326530612245
+2025-04-16 23:47:32,077 - INFO - Testing F1 score for epoch 40: 0.7617328763008118
+
+2025-04-16 23:47:32,077 - INFO - Current Learning rate: [1.5625e-05]
+2025-04-16 23:47:34,756 - INFO - Checkpoint saved to ../Train Data/Checkpoints/xlm roberta base\model_epoch_40.pth
+2025-04-16 23:48:33,127 - INFO - Training loss for epoch 41: 0.1141045656411974
+2025-04-16 23:48:33,127 - INFO - Training accuracy for epoch 41: 96.18005738880919
+2025-04-16 23:48:33,127 - INFO - Training F1 score for epoch 41: 0.9500352144241333
+2025-04-16 23:48:36,015 - INFO - Testing loss for epoch 41: 0.4116782371943094
+2025-04-16 23:48:36,015 - INFO - Testing accuracy for epoch 41: 82.39795918367346
+2025-04-16 23:48:36,015 - INFO - Testing F1 score for epoch 41: 0.7444444298744202
+
+2025-04-16 23:48:36,015 - INFO - Current Learning rate: [1.5625e-05]
+2025-04-16 23:48:38,737 - INFO - Checkpoint saved to ../Train Data/Checkpoints/xlm roberta base\model_epoch_41.pth
+2025-04-16 23:49:37,359 - INFO - Training loss for epoch 42: 0.11324709508109736
+2025-04-16 23:49:37,359 - INFO - Training accuracy for epoch 42: 96.4131994261119
+2025-04-16 23:49:37,359 - INFO - Training F1 score for epoch 42: 0.9533146619796753
+2025-04-16 23:49:40,017 - INFO - Testing loss for epoch 42: 0.4237215138629687
+2025-04-16 23:49:40,017 - INFO - Testing accuracy for epoch 42: 83.16326530612245
+2025-04-16 23:49:40,017 - INFO - Testing F1 score for epoch 42: 0.760869562625885
+
+2025-04-16 23:49:40,017 - INFO - Current Learning rate: [7.8125e-06]
+2025-04-16 23:49:43,468 - INFO - Checkpoint saved to ../Train Data/Checkpoints/xlm roberta base\model_epoch_42.pth
+2025-04-16 23:50:42,213 - INFO - Training loss for epoch 43: 0.11639369441325932
+2025-04-16 23:50:42,213 - INFO - Training accuracy for epoch 43: 96.28766140602582
+2025-04-16 23:50:42,213 - INFO - Training F1 score for epoch 43: 0.9519832730293274
+2025-04-16 23:50:45,014 - INFO - Testing loss for epoch 43: 0.398624556253151
+2025-04-16 23:50:45,014 - INFO - Testing accuracy for epoch 43: 82.39795918367346
+2025-04-16 23:50:45,014 - INFO - Testing F1 score for epoch 43: 0.7561837434768677
+
+2025-04-16 23:50:45,014 - INFO - Current Learning rate: [7.8125e-06]
+2025-04-16 23:50:47,696 - INFO - Checkpoint saved to ../Train Data/Checkpoints/xlm roberta base\model_epoch_43.pth
+2025-04-16 23:51:45,217 - INFO - Training loss for epoch 44: 0.11835755255618473
+2025-04-16 23:51:45,217 - INFO - Training accuracy for epoch 44: 96.26972740315638
+2025-04-16 23:51:45,217 - INFO - Training F1 score for epoch 44: 0.9516279101371765
+2025-04-16 23:51:47,878 - INFO - Testing loss for epoch 44: 0.39423644086536097
+2025-04-16 23:51:47,878 - INFO - Testing accuracy for epoch 44: 83.03571428571429
+2025-04-16 23:51:47,878 - INFO - Testing F1 score for epoch 44: 0.7559633255004883
+
+2025-04-16 23:51:47,878 - INFO - Current Learning rate: [7.8125e-06]
+2025-04-16 23:51:50,575 - INFO - Checkpoint saved to ../Train Data/Checkpoints/xlm roberta base\model_epoch_44.pth
+2025-04-16 23:52:49,542 - INFO - Training loss for epoch 45: 0.10663508248202759
+2025-04-16 23:52:49,543 - INFO - Training accuracy for epoch 45: 96.66427546628408
+2025-04-16 23:52:49,543 - INFO - Training F1 score for epoch 45: 0.95652174949646
+2025-04-16 23:52:52,200 - INFO - Testing loss for epoch 45: 0.40846961221600675
+2025-04-16 23:52:52,200 - INFO - Testing accuracy for epoch 45: 82.65306122448979
+2025-04-16 23:52:52,200 - INFO - Testing F1 score for epoch 45: 0.7536231875419617
+
+2025-04-16 23:52:52,200 - INFO - Current Learning rate: [7.8125e-06]
+2025-04-16 23:52:55,055 - INFO - Checkpoint saved to ../Train Data/Checkpoints/xlm roberta base\model_epoch_45.pth
+2025-04-16 23:53:53,464 - INFO - Training loss for epoch 46: 0.11219021852944618
+2025-04-16 23:53:53,464 - INFO - Training accuracy for epoch 46: 96.12625538020086
+2025-04-16 23:53:53,464 - INFO - Training F1 score for epoch 46: 0.9501615166664124
+2025-04-16 23:53:59,197 - INFO - Best model saved to ../Train Data/Checkpoints/xlm roberta base\best_model.pth
+2025-04-16 23:53:59,197 - INFO - Testing loss for epoch 46: 0.39198290016882276
+2025-04-16 23:53:59,197 - INFO - Testing accuracy for epoch 46: 83.54591836734694
+2025-04-16 23:53:59,197 - INFO - Testing F1 score for epoch 46: 0.7756521701812744
+
+2025-04-16 23:53:59,198 - INFO - Current Learning rate: [7.8125e-06]
+2025-04-16 23:54:05,827 - INFO - Checkpoint saved to ../Train Data/Checkpoints/xlm roberta base\model_epoch_46.pth
+2025-04-16 23:55:04,515 - INFO - Training loss for epoch 47: 0.09912703443623257
+2025-04-16 23:55:04,515 - INFO - Training accuracy for epoch 47: 96.95121951219512
+2025-04-16 23:55:04,515 - INFO - Training F1 score for epoch 47: 0.9603545069694519
+2025-04-16 23:55:07,158 - INFO - Testing loss for epoch 47: 0.40772939138874714
+2025-04-16 23:55:07,158 - INFO - Testing accuracy for epoch 47: 82.78061224489795
+2025-04-16 23:55:07,158 - INFO - Testing F1 score for epoch 47: 0.752293586730957
+
+2025-04-16 23:55:07,158 - INFO - Current Learning rate: [7.8125e-06]
+2025-04-16 23:55:11,913 - INFO - Checkpoint saved to ../Train Data/Checkpoints/xlm roberta base\model_epoch_47.pth
+2025-04-16 23:56:10,682 - INFO - Training loss for epoch 48: 0.11622364883520875
+2025-04-16 23:56:10,683 - INFO - Training accuracy for epoch 48: 96.26972740315638
+2025-04-16 23:56:10,683 - INFO - Training F1 score for epoch 48: 0.9516953229904175
+2025-04-16 23:56:13,436 - INFO - Testing loss for epoch 48: 0.3902693053669467
+2025-04-16 23:56:13,436 - INFO - Testing accuracy for epoch 48: 82.90816326530613
+2025-04-16 23:56:13,436 - INFO - Testing F1 score for epoch 48: 0.7545787692070007
+
+2025-04-16 23:56:13,436 - INFO - Current Learning rate: [7.8125e-06]
+2025-04-16 23:56:16,209 - INFO - Checkpoint saved to ../Train Data/Checkpoints/xlm roberta base\model_epoch_48.pth
+2025-04-16 23:57:15,057 - INFO - Training loss for epoch 49: 0.10446405173426325
+2025-04-16 23:57:15,058 - INFO - Training accuracy for epoch 49: 96.62840746054519
+2025-04-16 23:57:15,058 - INFO - Training F1 score for epoch 49: 0.9559305906295776
+2025-04-16 23:57:17,759 - INFO - Testing loss for epoch 49: 0.4034046326592869
+2025-04-16 23:57:17,760 - INFO - Testing accuracy for epoch 49: 83.29081632653062
+2025-04-16 23:57:17,760 - INFO - Testing F1 score for epoch 49: 0.7596330046653748
+
+2025-04-16 23:57:17,760 - INFO - Current Learning rate: [7.8125e-06]
+2025-04-16 23:57:20,487 - INFO - Checkpoint saved to ../Train Data/Checkpoints/xlm roberta base\model_epoch_49.pth
+2025-04-16 23:58:19,314 - INFO - Training loss for epoch 50: 0.10420697301805254
+2025-04-16 23:58:19,314 - INFO - Training accuracy for epoch 50: 96.52080344332855
+2025-04-16 23:58:19,314 - INFO - Training F1 score for epoch 50: 0.9548417329788208
+2025-04-16 23:58:22,015 - INFO - Testing loss for epoch 50: 0.405539535176085
+2025-04-16 23:58:22,015 - INFO - Testing accuracy for epoch 50: 83.03571428571429
+2025-04-16 23:58:22,015 - INFO - Testing F1 score for epoch 50: 0.7670753002166748
+
+2025-04-16 23:58:22,015 - INFO - Current Learning rate: [7.8125e-06]
+2025-04-16 23:58:24,747 - INFO - Checkpoint saved to ../Train Data/Checkpoints/xlm roberta base\model_epoch_50.pth
+2025-04-16 23:59:23,496 - INFO - Training loss for epoch 51: 0.12133035258826942
+2025-04-16 23:59:23,496 - INFO - Training accuracy for epoch 51: 95.91104734576757
+2025-04-16 23:59:23,496 - INFO - Training F1 score for epoch 51: 0.9472222328186035
+2025-04-16 23:59:29,165 - INFO - Best model saved to ../Train Data/Checkpoints/xlm roberta base\best_model.pth
+2025-04-16 23:59:29,166 - INFO - Testing loss for epoch 51: 0.4025429180462141
+2025-04-16 23:59:29,166 - INFO - Testing accuracy for epoch 51: 83.41836734693878
+2025-04-16 23:59:29,166 - INFO - Testing F1 score for epoch 51: 0.7758620977401733
+
+2025-04-16 23:59:29,166 - INFO - Current Learning rate: [3.90625e-06]
+2025-04-16 23:59:31,793 - INFO - Checkpoint saved to ../Train Data/Checkpoints/xlm roberta base\model_epoch_51.pth
+2025-04-17 00:00:30,731 - INFO - Training loss for epoch 52: 0.11743923195389232
+2025-04-17 00:00:30,731 - INFO - Training accuracy for epoch 52: 96.48493543758967
+2025-04-17 00:00:30,731 - INFO - Training F1 score for epoch 52: 0.9541413187980652
+2025-04-17 00:00:33,433 - INFO - Testing loss for epoch 52: 0.384513971832942
+2025-04-17 00:00:33,434 - INFO - Testing accuracy for epoch 52: 83.41836734693878
+2025-04-17 00:00:33,434 - INFO - Testing F1 score for epoch 52: 0.7695035338401794
+
+2025-04-17 00:00:33,434 - INFO - Current Learning rate: [3.90625e-06]
+2025-04-17 00:00:36,274 - INFO - Checkpoint saved to ../Train Data/Checkpoints/xlm roberta base\model_epoch_52.pth
+2025-04-17 00:01:34,724 - INFO - Training loss for epoch 53: 0.11232993264657204
+2025-04-17 00:01:34,724 - INFO - Training accuracy for epoch 53: 96.39526542324246
+2025-04-17 00:01:34,724 - INFO - Training F1 score for epoch 53: 0.9530044198036194
+2025-04-17 00:01:37,445 - INFO - Testing loss for epoch 53: 0.3938702008858019
+2025-04-17 00:01:37,445 - INFO - Testing accuracy for epoch 53: 82.52551020408163
+2025-04-17 00:01:37,445 - INFO - Testing F1 score for epoch 53: 0.7458255887031555
+
+2025-04-17 00:01:37,445 - INFO - Current Learning rate: [3.90625e-06]
+2025-04-17 00:01:40,422 - INFO - Checkpoint saved to ../Train Data/Checkpoints/xlm roberta base\model_epoch_53.pth
+2025-04-17 00:02:39,191 - INFO - Training loss for epoch 54: 0.1076780624197959
+2025-04-17 00:02:39,191 - INFO - Training accuracy for epoch 54: 96.32352941176471
+2025-04-17 00:02:39,191 - INFO - Training F1 score for epoch 54: 0.9522033333778381
+2025-04-17 00:02:41,908 - INFO - Testing loss for epoch 54: 0.39809890471550885
+2025-04-17 00:02:41,908 - INFO - Testing accuracy for epoch 54: 83.29081632653062
+2025-04-17 00:02:41,908 - INFO - Testing F1 score for epoch 54: 0.7613843083381653
+
+2025-04-17 00:02:41,908 - INFO - Current Learning rate: [3.90625e-06]
+2025-04-17 00:02:44,622 - INFO - Checkpoint saved to ../Train Data/Checkpoints/xlm roberta base\model_epoch_54.pth
+2025-04-17 00:03:43,452 - INFO - Training loss for epoch 55: 0.10605717926931539
+2025-04-17 00:03:43,452 - INFO - Training accuracy for epoch 55: 96.44906743185079
+2025-04-17 00:03:43,452 - INFO - Training F1 score for epoch 55: 0.9540603160858154
+2025-04-17 00:03:46,389 - INFO - Testing loss for epoch 55: 0.4106565454632652
+2025-04-17 00:03:46,389 - INFO - Testing accuracy for epoch 55: 82.52551020408163
+2025-04-17 00:03:46,389 - INFO - Testing F1 score for epoch 55: 0.7448789477348328
+
+2025-04-17 00:03:46,389 - INFO - Current Learning rate: [1.953125e-06]
+2025-04-17 00:03:49,099 - INFO - Checkpoint saved to ../Train Data/Checkpoints/xlm roberta base\model_epoch_55.pth
+2025-04-17 00:04:47,923 - INFO - Training loss for epoch 56: 0.12270265123960555
+2025-04-17 00:04:47,923 - INFO - Training accuracy for epoch 56: 95.49856527977045
+2025-04-17 00:04:47,923 - INFO - Training F1 score for epoch 56: 0.9416414499282837
+2025-04-17 00:04:50,618 - INFO - Testing loss for epoch 56: 0.3904175253166836
+2025-04-17 00:04:50,618 - INFO - Testing accuracy for epoch 56: 82.90816326530613
+2025-04-17 00:04:50,618 - INFO - Testing F1 score for epoch 56: 0.7563636302947998
+
+2025-04-17 00:04:50,618 - INFO - Current Learning rate: [1.953125e-06]
+2025-04-17 00:04:53,331 - INFO - Checkpoint saved to ../Train Data/Checkpoints/xlm roberta base\model_epoch_56.pth
+2025-04-17 00:05:51,879 - INFO - Training loss for epoch 57: 0.11495682346491595
+2025-04-17 00:05:51,879 - INFO - Training accuracy for epoch 57: 96.07245337159254
+2025-04-17 00:05:51,879 - INFO - Training F1 score for epoch 57: 0.9490104913711548
+2025-04-17 00:05:54,785 - INFO - Testing loss for epoch 57: 0.3920004117701735
+2025-04-17 00:05:54,785 - INFO - Testing accuracy for epoch 57: 83.29081632653062
+2025-04-17 00:05:54,785 - INFO - Testing F1 score for epoch 57: 0.7689594626426697
+
+2025-04-17 00:05:54,785 - INFO - Current Learning rate: [1.953125e-06]
+2025-04-17 00:05:57,512 - INFO - Checkpoint saved to ../Train Data/Checkpoints/xlm roberta base\model_epoch_57.pth
+2025-04-17 00:06:55,899 - INFO - Training loss for epoch 58: 0.10965065075481414
+2025-04-17 00:06:55,899 - INFO - Training accuracy for epoch 58: 96.03658536585365
+2025-04-17 00:06:55,900 - INFO - Training F1 score for epoch 58: 0.9486882090568542
+2025-04-17 00:07:01,335 - INFO - Best model saved to ../Train Data/Checkpoints/xlm roberta base\best_model.pth
+2025-04-17 00:07:01,335 - INFO - Testing loss for epoch 58: 0.41597385928795044
+2025-04-17 00:07:01,336 - INFO - Testing accuracy for epoch 58: 83.54591836734694
+2025-04-17 00:07:01,336 - INFO - Testing F1 score for epoch 58: 0.7809846997261047
+
+2025-04-17 00:07:01,336 - INFO - Current Learning rate: [1e-06]
+2025-04-17 00:07:03,981 - INFO - Checkpoint saved to ../Train Data/Checkpoints/xlm roberta base\model_epoch_58.pth
+2025-04-17 00:08:02,623 - INFO - Training loss for epoch 59: 0.10499410991760043
+2025-04-17 00:08:02,624 - INFO - Training accuracy for epoch 59: 96.1441893830703
+2025-04-17 00:08:02,624 - INFO - Training F1 score for epoch 59: 0.9500580430030823
+2025-04-17 00:08:05,241 - INFO - Testing loss for epoch 59: 0.4042577020614883
+2025-04-17 00:08:05,241 - INFO - Testing accuracy for epoch 59: 82.90816326530613
+2025-04-17 00:08:05,241 - INFO - Testing F1 score for epoch 59: 0.7545787692070007
+
+2025-04-17 00:08:05,241 - INFO - Current Learning rate: [1e-06]
+2025-04-17 00:08:08,052 - INFO - Checkpoint saved to ../Train Data/Checkpoints/xlm roberta base\model_epoch_59.pth
+2025-04-17 00:09:05,807 - INFO - Training loss for epoch 60: 0.10574229763803397
+2025-04-17 00:09:05,807 - INFO - Training accuracy for epoch 60: 96.52080344332855
+2025-04-17 00:09:05,807 - INFO - Training F1 score for epoch 60: 0.9547785520553589
+2025-04-17 00:09:08,429 - INFO - Testing loss for epoch 60: 0.39748034573027063
+2025-04-17 00:09:08,430 - INFO - Testing accuracy for epoch 60: 83.29081632653062
+2025-04-17 00:09:08,430 - INFO - Testing F1 score for epoch 60: 0.7578558325767517
+
+2025-04-17 00:09:08,430 - INFO - Current Learning rate: [1e-06]
+2025-04-17 00:09:11,143 - INFO - Checkpoint saved to ../Train Data/Checkpoints/xlm roberta base\model_epoch_60.pth
+2025-04-17 00:10:08,792 - INFO - Training loss for epoch 61: 0.11544541592530672
+2025-04-17 00:10:08,792 - INFO - Training accuracy for epoch 61: 96.19799139167863
+2025-04-17 00:10:08,792 - INFO - Training F1 score for epoch 61: 0.9505135416984558
+2025-04-17 00:10:11,480 - INFO - Testing loss for epoch 61: 0.4063506882485686
+2025-04-17 00:10:11,480 - INFO - Testing accuracy for epoch 61: 82.52551020408163
+2025-04-17 00:10:11,480 - INFO - Testing F1 score for epoch 61: 0.7531531453132629
+
+2025-04-17 00:10:11,480 - INFO - Current Learning rate: [1e-06]
+2025-04-17 00:10:14,231 - INFO - Checkpoint saved to ../Train Data/Checkpoints/xlm roberta base\model_epoch_61.pth
+2025-04-17 00:11:11,924 - INFO - Training loss for epoch 62: 0.10782893958843581
+2025-04-17 00:11:11,924 - INFO - Training accuracy for epoch 62: 96.53873744619798
+2025-04-17 00:11:11,924 - INFO - Training F1 score for epoch 62: 0.9550639986991882
+2025-04-17 00:11:14,571 - INFO - Testing loss for epoch 62: 0.40267941690221126
+2025-04-17 00:11:14,572 - INFO - Testing accuracy for epoch 62: 82.90816326530613
+2025-04-17 00:11:14,572 - INFO - Testing F1 score for epoch 62: 0.7615658640861511
+
+2025-04-17 00:11:14,572 - INFO - Current Learning rate: [1e-06]
+2025-04-17 00:11:17,353 - INFO - Checkpoint saved to ../Train Data/Checkpoints/xlm roberta base\model_epoch_62.pth
+2025-04-17 00:12:14,937 - INFO - Training loss for epoch 63: 0.09715956704185974
+2025-04-17 00:12:14,937 - INFO - Training accuracy for epoch 63: 96.70014347202296
+2025-04-17 00:12:14,937 - INFO - Training F1 score for epoch 63: 0.9571893811225891
+2025-04-17 00:12:17,728 - INFO - Testing loss for epoch 63: 0.42787885213536875
+2025-04-17 00:12:17,728 - INFO - Testing accuracy for epoch 63: 83.29081632653062
+2025-04-17 00:12:17,728 - INFO - Testing F1 score for epoch 63: 0.7648115158081055
+
+2025-04-17 00:12:17,728 - INFO - Current Learning rate: [1e-06]
+2025-04-17 00:12:23,735 - INFO - Checkpoint saved to ../Train Data/Checkpoints/xlm roberta base\model_epoch_63.pth
+2025-04-17 00:13:21,342 - INFO - Training loss for epoch 64: 0.11153535548847442
+2025-04-17 00:13:21,342 - INFO - Training accuracy for epoch 64: 96.16212338593974
+2025-04-17 00:13:21,342 - INFO - Training F1 score for epoch 64: 0.9505545496940613
+2025-04-17 00:13:24,015 - INFO - Testing loss for epoch 64: 0.4034839069888908
+2025-04-17 00:13:24,015 - INFO - Testing accuracy for epoch 64: 83.16326530612245
+2025-04-17 00:13:24,015 - INFO - Testing F1 score for epoch 64: 0.7599999904632568
+
+2025-04-17 00:13:24,015 - INFO - Current Learning rate: [1e-06]
+2025-04-17 00:13:26,716 - INFO - Checkpoint saved to ../Train Data/Checkpoints/xlm roberta base\model_epoch_64.pth

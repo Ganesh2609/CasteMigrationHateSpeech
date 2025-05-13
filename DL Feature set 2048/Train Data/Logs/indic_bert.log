@@ -1,0 +1,591 @@
+2025-04-17 15:10:49,385 - INFO - Using device: cuda
+2025-04-17 15:10:49,389 - INFO - Starting training for 64 epochs from scratch
+2025-04-17 15:11:48,672 - INFO - Training loss for epoch 1: 0.6725776098037894
+2025-04-17 15:11:48,672 - INFO - Training accuracy for epoch 1: 62.535868005738884
+2025-04-17 15:11:48,672 - INFO - Training F1 score for epoch 1: 0.30621054768562317
+2025-04-17 15:11:54,123 - INFO - Best model saved to ../Train Data/Checkpoints/indic bert\best_model.pth
+2025-04-17 15:11:54,124 - INFO - Testing loss for epoch 1: 0.6478037955809612
+2025-04-17 15:11:54,124 - INFO - Testing accuracy for epoch 1: 61.98979591836735
+2025-04-17 15:11:54,124 - INFO - Testing F1 score for epoch 1: 0.2870813310146332
+
+2025-04-17 15:11:54,124 - INFO - Current Learning rate: [0.001]
+2025-04-17 15:11:57,054 - INFO - Checkpoint saved to ../Train Data/Checkpoints/indic bert\model_epoch_1.pth
+2025-04-17 15:12:55,323 - INFO - Training loss for epoch 2: 0.5849117285637465
+2025-04-17 15:12:55,323 - INFO - Training accuracy for epoch 2: 70.05021520803443
+2025-04-17 15:12:55,323 - INFO - Training F1 score for epoch 2: 0.5628272294998169
+2025-04-17 15:13:00,930 - INFO - Best model saved to ../Train Data/Checkpoints/indic bert\best_model.pth
+2025-04-17 15:13:00,930 - INFO - Testing loss for epoch 2: 0.611371386111999
+2025-04-17 15:13:00,930 - INFO - Testing accuracy for epoch 2: 68.23979591836735
+2025-04-17 15:13:00,930 - INFO - Testing F1 score for epoch 2: 0.5108054876327515
+
+2025-04-17 15:13:00,930 - INFO - Current Learning rate: [0.001]
+2025-04-17 15:13:03,697 - INFO - Checkpoint saved to ../Train Data/Checkpoints/indic bert\model_epoch_2.pth
+2025-04-17 15:14:01,667 - INFO - Training loss for epoch 3: 0.5444172472616864
+2025-04-17 15:14:01,667 - INFO - Training accuracy for epoch 3: 73.27833572453372
+2025-04-17 15:14:01,667 - INFO - Training F1 score for epoch 3: 0.6254399418830872
+2025-04-17 15:14:07,093 - INFO - Best model saved to ../Train Data/Checkpoints/indic bert\best_model.pth
+2025-04-17 15:14:07,094 - INFO - Testing loss for epoch 3: 0.5933217007894905
+2025-04-17 15:14:07,094 - INFO - Testing accuracy for epoch 3: 69.26020408163265
+2025-04-17 15:14:07,094 - INFO - Testing F1 score for epoch 3: 0.5990016460418701
+
+2025-04-17 15:14:07,094 - INFO - Current Learning rate: [0.001]
+2025-04-17 15:14:09,803 - INFO - Checkpoint saved to ../Train Data/Checkpoints/indic bert\model_epoch_3.pth
+2025-04-17 15:15:07,972 - INFO - Training loss for epoch 4: 0.5169206349930086
+2025-04-17 15:15:07,972 - INFO - Training accuracy for epoch 4: 75.37661406025825
+2025-04-17 15:15:07,973 - INFO - Training F1 score for epoch 4: 0.6563203930854797
+2025-04-17 15:15:10,423 - INFO - Testing loss for epoch 4: 0.5631429553031921
+2025-04-17 15:15:10,423 - INFO - Testing accuracy for epoch 4: 70.53571428571429
+2025-04-17 15:15:10,423 - INFO - Testing F1 score for epoch 4: 0.48322147130966187
+
+2025-04-17 15:15:10,424 - INFO - Current Learning rate: [0.001]
+2025-04-17 15:15:13,454 - INFO - Checkpoint saved to ../Train Data/Checkpoints/indic bert\model_epoch_4.pth
+2025-04-17 15:16:11,220 - INFO - Training loss for epoch 5: 0.47428856373175315
+2025-04-17 15:16:11,221 - INFO - Training accuracy for epoch 5: 77.76183644189383
+2025-04-17 15:16:11,221 - INFO - Training F1 score for epoch 5: 0.6954813599586487
+2025-04-17 15:16:16,625 - INFO - Best model saved to ../Train Data/Checkpoints/indic bert\best_model.pth
+2025-04-17 15:16:16,626 - INFO - Testing loss for epoch 5: 0.5254224265108303
+2025-04-17 15:16:16,626 - INFO - Testing accuracy for epoch 5: 74.61734693877551
+2025-04-17 15:16:16,626 - INFO - Testing F1 score for epoch 5: 0.6427289247512817
+
+2025-04-17 15:16:16,626 - INFO - Current Learning rate: [0.001]
+2025-04-17 15:16:19,297 - INFO - Checkpoint saved to ../Train Data/Checkpoints/indic bert\model_epoch_5.pth
+2025-04-17 15:17:17,630 - INFO - Training loss for epoch 6: 0.4320679673633753
+2025-04-17 15:17:17,631 - INFO - Training accuracy for epoch 6: 80.27259684361549
+2025-04-17 15:17:17,631 - INFO - Training F1 score for epoch 6: 0.7363374829292297
+2025-04-17 15:17:20,028 - INFO - Testing loss for epoch 6: 0.5260411995101948
+2025-04-17 15:17:20,029 - INFO - Testing accuracy for epoch 6: 73.59693877551021
+2025-04-17 15:17:20,029 - INFO - Testing F1 score for epoch 6: 0.6057142615318298
+
+2025-04-17 15:17:20,029 - INFO - Current Learning rate: [0.001]
+2025-04-17 15:17:23,030 - INFO - Checkpoint saved to ../Train Data/Checkpoints/indic bert\model_epoch_6.pth
+2025-04-17 15:18:20,941 - INFO - Training loss for epoch 7: 0.4153476220420649
+2025-04-17 15:18:20,941 - INFO - Training accuracy for epoch 7: 81.33070301291248
+2025-04-17 15:18:20,941 - INFO - Training F1 score for epoch 7: 0.7534927725791931
+2025-04-17 15:18:26,479 - INFO - Best model saved to ../Train Data/Checkpoints/indic bert\best_model.pth
+2025-04-17 15:18:26,479 - INFO - Testing loss for epoch 7: 0.5000499718043269
+2025-04-17 15:18:26,479 - INFO - Testing accuracy for epoch 7: 76.14795918367346
+2025-04-17 15:18:26,479 - INFO - Testing F1 score for epoch 7: 0.6606170535087585
+
+2025-04-17 15:18:26,479 - INFO - Current Learning rate: [0.001]
+2025-04-17 15:18:29,231 - INFO - Checkpoint saved to ../Train Data/Checkpoints/indic bert\model_epoch_7.pth
+2025-04-17 15:19:27,649 - INFO - Training loss for epoch 8: 0.37738242438610864
+2025-04-17 15:19:27,649 - INFO - Training accuracy for epoch 8: 83.68005738880919
+2025-04-17 15:19:27,649 - INFO - Training F1 score for epoch 8: 0.7855796217918396
+2025-04-17 15:19:33,379 - INFO - Best model saved to ../Train Data/Checkpoints/indic bert\best_model.pth
+2025-04-17 15:19:33,379 - INFO - Testing loss for epoch 8: 0.4893938692248597
+2025-04-17 15:19:33,379 - INFO - Testing accuracy for epoch 8: 79.71938775510205
+2025-04-17 15:19:33,379 - INFO - Testing F1 score for epoch 8: 0.7205623984336853
+
+2025-04-17 15:19:33,380 - INFO - Current Learning rate: [0.001]
+2025-04-17 15:19:36,225 - INFO - Checkpoint saved to ../Train Data/Checkpoints/indic bert\model_epoch_8.pth
+2025-04-17 15:20:34,542 - INFO - Training loss for epoch 9: 0.356300362368439
+2025-04-17 15:20:34,542 - INFO - Training accuracy for epoch 9: 84.41535150645625
+2025-04-17 15:20:34,542 - INFO - Training F1 score for epoch 9: 0.7953850030899048
+2025-04-17 15:20:40,101 - INFO - Best model saved to ../Train Data/Checkpoints/indic bert\best_model.pth
+2025-04-17 15:20:40,101 - INFO - Testing loss for epoch 9: 0.46153388126772277
+2025-04-17 15:20:40,101 - INFO - Testing accuracy for epoch 9: 81.50510204081633
+2025-04-17 15:20:40,101 - INFO - Testing F1 score for epoch 9: 0.7451669573783875
+
+2025-04-17 15:20:40,101 - INFO - Current Learning rate: [0.001]
+2025-04-17 15:20:42,851 - INFO - Checkpoint saved to ../Train Data/Checkpoints/indic bert\model_epoch_9.pth
+2025-04-17 15:21:41,233 - INFO - Training loss for epoch 10: 0.3254176927636908
+2025-04-17 15:21:41,233 - INFO - Training accuracy for epoch 10: 86.06527977044476
+2025-04-17 15:21:41,233 - INFO - Training F1 score for epoch 10: 0.8190076947212219
+2025-04-17 15:21:43,851 - INFO - Testing loss for epoch 10: 0.4767843826997037
+2025-04-17 15:21:43,851 - INFO - Testing accuracy for epoch 10: 78.4438775510204
+2025-04-17 15:21:43,851 - INFO - Testing F1 score for epoch 10: 0.7215815782546997
+
+2025-04-17 15:21:43,851 - INFO - Current Learning rate: [0.001]
+2025-04-17 15:21:46,772 - INFO - Checkpoint saved to ../Train Data/Checkpoints/indic bert\model_epoch_10.pth
+2025-04-17 15:22:44,790 - INFO - Training loss for epoch 11: 0.303196729544331
+2025-04-17 15:22:44,790 - INFO - Training accuracy for epoch 11: 87.6793400286944
+2025-04-17 15:22:44,790 - INFO - Training F1 score for epoch 11: 0.8404922485351562
+2025-04-17 15:22:47,299 - INFO - Testing loss for epoch 11: 0.4411791939364404
+2025-04-17 15:22:47,299 - INFO - Testing accuracy for epoch 11: 80.73979591836735
+2025-04-17 15:22:47,299 - INFO - Testing F1 score for epoch 11: 0.7418803572654724
+
+2025-04-17 15:22:47,299 - INFO - Current Learning rate: [0.001]
+2025-04-17 15:22:50,204 - INFO - Checkpoint saved to ../Train Data/Checkpoints/indic bert\model_epoch_11.pth
+2025-04-17 15:23:48,497 - INFO - Training loss for epoch 12: 0.28960529284035974
+2025-04-17 15:23:48,497 - INFO - Training accuracy for epoch 12: 88.48637015781922
+2025-04-17 15:23:48,497 - INFO - Training F1 score for epoch 12: 0.8501400351524353
+2025-04-17 15:23:50,931 - INFO - Testing loss for epoch 12: 0.4837950052959578
+2025-04-17 15:23:50,931 - INFO - Testing accuracy for epoch 12: 79.20918367346938
+2025-04-17 15:23:50,931 - INFO - Testing F1 score for epoch 12: 0.7349593639373779
+
+2025-04-17 15:23:50,931 - INFO - Current Learning rate: [0.001]
+2025-04-17 15:23:53,821 - INFO - Checkpoint saved to ../Train Data/Checkpoints/indic bert\model_epoch_12.pth
+2025-04-17 15:24:51,954 - INFO - Training loss for epoch 13: 0.2773915427273281
+2025-04-17 15:24:51,955 - INFO - Training accuracy for epoch 13: 88.79124820659972
+2025-04-17 15:24:51,955 - INFO - Training F1 score for epoch 13: 0.8543463349342346
+2025-04-17 15:24:54,397 - INFO - Testing loss for epoch 13: 0.48451277910142526
+2025-04-17 15:24:54,397 - INFO - Testing accuracy for epoch 13: 81.12244897959184
+2025-04-17 15:24:54,397 - INFO - Testing F1 score for epoch 13: 0.7238805890083313
+
+2025-04-17 15:24:54,397 - INFO - Current Learning rate: [0.001]
+2025-04-17 15:24:57,280 - INFO - Checkpoint saved to ../Train Data/Checkpoints/indic bert\model_epoch_13.pth
+2025-04-17 15:25:55,335 - INFO - Training loss for epoch 14: 0.27330070038672155
+2025-04-17 15:25:55,335 - INFO - Training accuracy for epoch 14: 89.83142037302726
+2025-04-17 15:25:55,335 - INFO - Training F1 score for epoch 14: 0.8670574426651001
+2025-04-17 15:25:57,791 - INFO - Testing loss for epoch 14: 0.4893685873521834
+2025-04-17 15:25:57,791 - INFO - Testing accuracy for epoch 14: 80.61224489795919
+2025-04-17 15:25:57,791 - INFO - Testing F1 score for epoch 14: 0.721611738204956
+
+2025-04-17 15:25:57,791 - INFO - Current Learning rate: [0.0005]
+2025-04-17 15:26:00,666 - INFO - Checkpoint saved to ../Train Data/Checkpoints/indic bert\model_epoch_14.pth
+2025-04-17 15:26:58,730 - INFO - Training loss for epoch 15: 0.24139472406084944
+2025-04-17 15:26:58,730 - INFO - Training accuracy for epoch 15: 90.71018651362984
+2025-04-17 15:26:58,730 - INFO - Training F1 score for epoch 15: 0.8805901408195496
+2025-04-17 15:27:04,052 - INFO - Best model saved to ../Train Data/Checkpoints/indic bert\best_model.pth
+2025-04-17 15:27:04,053 - INFO - Testing loss for epoch 15: 0.4563522011953957
+2025-04-17 15:27:04,053 - INFO - Testing accuracy for epoch 15: 80.73979591836735
+2025-04-17 15:27:04,053 - INFO - Testing F1 score for epoch 15: 0.7536704540252686
+
+2025-04-17 15:27:04,053 - INFO - Current Learning rate: [0.0005]
+2025-04-17 15:27:06,768 - INFO - Checkpoint saved to ../Train Data/Checkpoints/indic bert\model_epoch_15.pth
+2025-04-17 15:28:04,887 - INFO - Training loss for epoch 16: 0.1812173950070331
+2025-04-17 15:28:04,887 - INFO - Training accuracy for epoch 16: 93.65136298421808
+2025-04-17 15:28:04,887 - INFO - Training F1 score for epoch 16: 0.9174054861068726
+2025-04-17 15:28:10,506 - INFO - Best model saved to ../Train Data/Checkpoints/indic bert\best_model.pth
+2025-04-17 15:28:10,507 - INFO - Testing loss for epoch 16: 0.44275022180256796
+2025-04-17 15:28:10,507 - INFO - Testing accuracy for epoch 16: 82.78061224489795
+2025-04-17 15:28:10,507 - INFO - Testing F1 score for epoch 16: 0.7602131366729736
+
+2025-04-17 15:28:10,507 - INFO - Current Learning rate: [0.0005]
+2025-04-17 15:28:13,226 - INFO - Checkpoint saved to ../Train Data/Checkpoints/indic bert\model_epoch_16.pth
+2025-04-17 15:29:11,474 - INFO - Training loss for epoch 17: 0.19044807493430127
+2025-04-17 15:29:11,474 - INFO - Training accuracy for epoch 17: 93.16714490674319
+2025-04-17 15:29:11,474 - INFO - Training F1 score for epoch 17: 0.9117851257324219
+2025-04-17 15:29:13,939 - INFO - Testing loss for epoch 17: 0.4466988612726635
+2025-04-17 15:29:13,939 - INFO - Testing accuracy for epoch 17: 82.01530612244898
+2025-04-17 15:29:13,939 - INFO - Testing F1 score for epoch 17: 0.7477638721466064
+
+2025-04-17 15:29:13,940 - INFO - Current Learning rate: [0.00025]
+2025-04-17 15:29:16,870 - INFO - Checkpoint saved to ../Train Data/Checkpoints/indic bert\model_epoch_17.pth
+2025-04-17 15:30:19,554 - INFO - Training loss for epoch 18: 0.14920292136298127
+2025-04-17 15:30:19,554 - INFO - Training accuracy for epoch 18: 95.01434720229555
+2025-04-17 15:30:19,554 - INFO - Training F1 score for epoch 18: 0.9348946213722229
+2025-04-17 15:30:23,023 - INFO - Testing loss for epoch 18: 0.4397937527344543
+2025-04-17 15:30:23,023 - INFO - Testing accuracy for epoch 18: 82.2704081632653
+2025-04-17 15:30:23,023 - INFO - Testing F1 score for epoch 18: 0.751341700553894
+
+2025-04-17 15:30:23,023 - INFO - Current Learning rate: [0.00025]
+2025-04-17 15:30:27,043 - INFO - Checkpoint saved to ../Train Data/Checkpoints/indic bert\model_epoch_18.pth
+2025-04-17 15:31:34,529 - INFO - Training loss for epoch 19: 0.13627536897647757
+2025-04-17 15:31:34,530 - INFO - Training accuracy for epoch 19: 95.48063127690101
+2025-04-17 15:31:34,530 - INFO - Training F1 score for epoch 19: 0.9411764740943909
+2025-04-17 15:31:42,251 - INFO - Best model saved to ../Train Data/Checkpoints/indic bert\best_model.pth
+2025-04-17 15:31:42,252 - INFO - Testing loss for epoch 19: 0.4417405001134897
+2025-04-17 15:31:42,252 - INFO - Testing accuracy for epoch 19: 83.03571428571429
+2025-04-17 15:31:42,252 - INFO - Testing F1 score for epoch 19: 0.7670753002166748
+
+2025-04-17 15:31:42,252 - INFO - Current Learning rate: [0.00025]
+2025-04-17 15:31:46,450 - INFO - Checkpoint saved to ../Train Data/Checkpoints/indic bert\model_epoch_19.pth
+2025-04-17 15:32:54,474 - INFO - Training loss for epoch 20: 0.1402595094999718
+2025-04-17 15:32:54,474 - INFO - Training accuracy for epoch 20: 95.15781922525107
+2025-04-17 15:32:54,474 - INFO - Training F1 score for epoch 20: 0.9376155138015747
+2025-04-17 15:32:57,958 - INFO - Testing loss for epoch 20: 0.4284488302560485
+2025-04-17 15:32:57,958 - INFO - Testing accuracy for epoch 20: 83.54591836734694
+2025-04-17 15:32:57,958 - INFO - Testing F1 score for epoch 20: 0.7624309659004211
+
+2025-04-17 15:32:57,958 - INFO - Current Learning rate: [0.00025]
+2025-04-17 15:33:01,951 - INFO - Checkpoint saved to ../Train Data/Checkpoints/indic bert\model_epoch_20.pth
+2025-04-17 15:34:02,096 - INFO - Training loss for epoch 21: 0.11082804861038902
+2025-04-17 15:34:02,096 - INFO - Training accuracy for epoch 21: 96.46700143472023
+2025-04-17 15:34:02,096 - INFO - Training F1 score for epoch 21: 0.953961193561554
+2025-04-17 15:34:04,537 - INFO - Testing loss for epoch 21: 0.4285770146822443
+2025-04-17 15:34:04,537 - INFO - Testing accuracy for epoch 21: 82.90816326530613
+2025-04-17 15:34:04,537 - INFO - Testing F1 score for epoch 21: 0.7607142925262451
+
+2025-04-17 15:34:04,538 - INFO - Current Learning rate: [0.00025]
+2025-04-17 15:34:07,354 - INFO - Checkpoint saved to ../Train Data/Checkpoints/indic bert\model_epoch_21.pth
+2025-04-17 15:35:05,406 - INFO - Training loss for epoch 22: 0.11637526419874912
+2025-04-17 15:35:05,406 - INFO - Training accuracy for epoch 22: 96.46700143472023
+2025-04-17 15:35:05,406 - INFO - Training F1 score for epoch 22: 0.9543664455413818
+2025-04-17 15:35:07,806 - INFO - Testing loss for epoch 22: 0.4370060277988716
+2025-04-17 15:35:07,806 - INFO - Testing accuracy for epoch 22: 82.14285714285714
+2025-04-17 15:35:07,806 - INFO - Testing F1 score for epoch 22: 0.7602739930152893
+
+2025-04-17 15:35:07,806 - INFO - Current Learning rate: [0.00025]
+2025-04-17 15:35:10,647 - INFO - Checkpoint saved to ../Train Data/Checkpoints/indic bert\model_epoch_22.pth
+2025-04-17 15:36:08,704 - INFO - Training loss for epoch 23: 0.12048785453709043
+2025-04-17 15:36:08,705 - INFO - Training accuracy for epoch 23: 96.10832137733142
+2025-04-17 15:36:08,705 - INFO - Training F1 score for epoch 23: 0.949803352355957
+2025-04-17 15:36:11,189 - INFO - Testing loss for epoch 23: 0.485840520764492
+2025-04-17 15:36:11,189 - INFO - Testing accuracy for epoch 23: 83.92857142857143
+2025-04-17 15:36:11,189 - INFO - Testing F1 score for epoch 23: 0.75390625
+
+2025-04-17 15:36:11,189 - INFO - Current Learning rate: [0.000125]
+2025-04-17 15:36:14,003 - INFO - Checkpoint saved to ../Train Data/Checkpoints/indic bert\model_epoch_23.pth
+2025-04-17 15:37:11,906 - INFO - Training loss for epoch 24: 0.11106727485594418
+2025-04-17 15:37:11,907 - INFO - Training accuracy for epoch 24: 96.25179340028694
+2025-04-17 15:37:11,907 - INFO - Training F1 score for epoch 24: 0.951293408870697
+2025-04-17 15:37:17,489 - INFO - Best model saved to ../Train Data/Checkpoints/indic bert\best_model.pth
+2025-04-17 15:37:17,489 - INFO - Testing loss for epoch 24: 0.4418031109915096
+2025-04-17 15:37:17,489 - INFO - Testing accuracy for epoch 24: 83.80102040816327
+2025-04-17 15:37:17,489 - INFO - Testing F1 score for epoch 24: 0.7678244709968567
+
+2025-04-17 15:37:17,490 - INFO - Current Learning rate: [0.000125]
+2025-04-17 15:37:20,183 - INFO - Checkpoint saved to ../Train Data/Checkpoints/indic bert\model_epoch_24.pth
+2025-04-17 15:38:17,719 - INFO - Training loss for epoch 25: 0.11174226180186637
+2025-04-17 15:38:17,719 - INFO - Training accuracy for epoch 25: 96.66427546628408
+2025-04-17 15:38:17,719 - INFO - Training F1 score for epoch 25: 0.9566231369972229
+2025-04-17 15:38:20,167 - INFO - Testing loss for epoch 25: 0.44211709641908503
+2025-04-17 15:38:20,167 - INFO - Testing accuracy for epoch 25: 83.54591836734694
+2025-04-17 15:38:20,167 - INFO - Testing F1 score for epoch 25: 0.7542856931686401
+
+2025-04-17 15:38:20,167 - INFO - Current Learning rate: [0.000125]
+2025-04-17 15:38:23,103 - INFO - Checkpoint saved to ../Train Data/Checkpoints/indic bert\model_epoch_25.pth
+2025-04-17 15:39:21,357 - INFO - Training loss for epoch 26: 0.08860077153974169
+2025-04-17 15:39:21,357 - INFO - Training accuracy for epoch 26: 97.22022955523673
+2025-04-17 15:39:21,357 - INFO - Training F1 score for epoch 26: 0.9639618396759033
+2025-04-17 15:39:23,972 - INFO - Testing loss for epoch 26: 0.43517813616793377
+2025-04-17 15:39:23,973 - INFO - Testing accuracy for epoch 26: 83.6734693877551
+2025-04-17 15:39:23,973 - INFO - Testing F1 score for epoch 26: 0.7629629373550415
+
+2025-04-17 15:39:23,973 - INFO - Current Learning rate: [6.25e-05]
+2025-04-17 15:39:26,855 - INFO - Checkpoint saved to ../Train Data/Checkpoints/indic bert\model_epoch_26.pth
+2025-04-17 15:40:24,420 - INFO - Training loss for epoch 27: 0.09190244780161246
+2025-04-17 15:40:24,420 - INFO - Training accuracy for epoch 27: 97.30989956958393
+2025-04-17 15:40:24,420 - INFO - Training F1 score for epoch 27: 0.9649696350097656
+2025-04-17 15:40:26,878 - INFO - Testing loss for epoch 27: 0.4214230388859097
+2025-04-17 15:40:26,878 - INFO - Testing accuracy for epoch 27: 83.54591836734694
+2025-04-17 15:40:26,878 - INFO - Testing F1 score for epoch 27: 0.7588785290718079
+
+2025-04-17 15:40:26,878 - INFO - Current Learning rate: [6.25e-05]
+2025-04-17 15:40:29,787 - INFO - Checkpoint saved to ../Train Data/Checkpoints/indic bert\model_epoch_27.pth
+2025-04-17 15:41:27,664 - INFO - Training loss for epoch 28: 0.09345032896651449
+2025-04-17 15:41:27,664 - INFO - Training accuracy for epoch 28: 97.09469153515064
+2025-04-17 15:41:27,665 - INFO - Training F1 score for epoch 28: 0.9624130129814148
+2025-04-17 15:41:30,312 - INFO - Testing loss for epoch 28: 0.44751413731018497
+2025-04-17 15:41:30,312 - INFO - Testing accuracy for epoch 28: 84.0561224489796
+2025-04-17 15:41:30,312 - INFO - Testing F1 score for epoch 28: 0.761904776096344
+
+2025-04-17 15:41:30,312 - INFO - Current Learning rate: [6.25e-05]
+2025-04-17 15:41:33,258 - INFO - Checkpoint saved to ../Train Data/Checkpoints/indic bert\model_epoch_28.pth
+2025-04-17 15:42:31,139 - INFO - Training loss for epoch 29: 0.08937453503093791
+2025-04-17 15:42:31,139 - INFO - Training accuracy for epoch 29: 97.36370157819225
+2025-04-17 15:42:31,140 - INFO - Training F1 score for epoch 29: 0.9659169912338257
+2025-04-17 15:42:33,624 - INFO - Testing loss for epoch 29: 0.4096031152092072
+2025-04-17 15:42:33,624 - INFO - Testing accuracy for epoch 29: 83.54591836734694
+2025-04-17 15:42:33,624 - INFO - Testing F1 score for epoch 29: 0.7615526914596558
+
+2025-04-17 15:42:33,624 - INFO - Current Learning rate: [6.25e-05]
+2025-04-17 15:42:36,550 - INFO - Checkpoint saved to ../Train Data/Checkpoints/indic bert\model_epoch_29.pth
+2025-04-17 15:43:34,695 - INFO - Training loss for epoch 30: 0.09259100562132563
+2025-04-17 15:43:34,695 - INFO - Training accuracy for epoch 30: 97.32783357245337
+2025-04-17 15:43:34,695 - INFO - Training F1 score for epoch 30: 0.965340793132782
+2025-04-17 15:43:37,164 - INFO - Testing loss for epoch 30: 0.420515845624768
+2025-04-17 15:43:37,164 - INFO - Testing accuracy for epoch 30: 83.80102040816327
+2025-04-17 15:43:37,164 - INFO - Testing F1 score for epoch 30: 0.7608286142349243
+
+2025-04-17 15:43:37,164 - INFO - Current Learning rate: [6.25e-05]
+2025-04-17 15:43:40,078 - INFO - Checkpoint saved to ../Train Data/Checkpoints/indic bert\model_epoch_30.pth
+2025-04-17 15:44:37,821 - INFO - Training loss for epoch 31: 0.09168104343871229
+2025-04-17 15:44:37,821 - INFO - Training accuracy for epoch 31: 97.11262553802008
+2025-04-17 15:44:37,821 - INFO - Training F1 score for epoch 31: 0.9625842571258545
+2025-04-17 15:44:40,251 - INFO - Testing loss for epoch 31: 0.4156874721983866
+2025-04-17 15:44:40,251 - INFO - Testing accuracy for epoch 31: 82.52551020408163
+2025-04-17 15:44:40,251 - INFO - Testing F1 score for epoch 31: 0.7549194693565369
+
+2025-04-17 15:44:40,252 - INFO - Current Learning rate: [6.25e-05]
+2025-04-17 15:44:43,132 - INFO - Checkpoint saved to ../Train Data/Checkpoints/indic bert\model_epoch_31.pth
+2025-04-17 15:45:40,991 - INFO - Training loss for epoch 32: 0.07817398573083528
+2025-04-17 15:45:40,991 - INFO - Training accuracy for epoch 32: 97.52510760401722
+2025-04-17 15:45:40,991 - INFO - Training F1 score for epoch 32: 0.967892050743103
+2025-04-17 15:45:43,544 - INFO - Testing loss for epoch 32: 0.4142848967897649
+2025-04-17 15:45:43,544 - INFO - Testing accuracy for epoch 32: 83.29081632653062
+2025-04-17 15:45:43,544 - INFO - Testing F1 score for epoch 32: 0.7631102800369263
+
+2025-04-17 15:45:43,544 - INFO - Current Learning rate: [3.125e-05]
+2025-04-17 15:45:46,444 - INFO - Checkpoint saved to ../Train Data/Checkpoints/indic bert\model_epoch_32.pth
+2025-04-17 15:46:44,130 - INFO - Training loss for epoch 33: 0.08444286004835246
+2025-04-17 15:46:44,130 - INFO - Training accuracy for epoch 33: 97.34576757532281
+2025-04-17 15:46:44,130 - INFO - Training F1 score for epoch 33: 0.9655011892318726
+2025-04-17 15:46:46,554 - INFO - Testing loss for epoch 33: 0.45342447574497485
+2025-04-17 15:46:46,554 - INFO - Testing accuracy for epoch 33: 84.18367346938776
+2025-04-17 15:46:46,554 - INFO - Testing F1 score for epoch 33: 0.7549406886100769
+
+2025-04-17 15:46:46,554 - INFO - Current Learning rate: [3.125e-05]
+2025-04-17 15:46:49,560 - INFO - Checkpoint saved to ../Train Data/Checkpoints/indic bert\model_epoch_33.pth
+2025-04-17 15:47:47,644 - INFO - Training loss for epoch 34: 0.08393648632005701
+2025-04-17 15:47:47,644 - INFO - Training accuracy for epoch 34: 97.27403156384506
+2025-04-17 15:47:47,644 - INFO - Training F1 score for epoch 34: 0.9648148417472839
+2025-04-17 15:47:50,181 - INFO - Testing loss for epoch 34: 0.39482888697209406
+2025-04-17 15:47:50,181 - INFO - Testing accuracy for epoch 34: 83.16326530612245
+2025-04-17 15:47:50,181 - INFO - Testing F1 score for epoch 34: 0.7625899314880371
+
+2025-04-17 15:47:50,181 - INFO - Current Learning rate: [3.125e-05]
+2025-04-17 15:47:53,049 - INFO - Checkpoint saved to ../Train Data/Checkpoints/indic bert\model_epoch_34.pth
+2025-04-17 15:48:51,057 - INFO - Training loss for epoch 35: 0.0775186128756018
+2025-04-17 15:48:51,057 - INFO - Training accuracy for epoch 35: 97.70444763271162
+2025-04-17 15:48:51,057 - INFO - Training F1 score for epoch 35: 0.9703429341316223
+2025-04-17 15:48:53,528 - INFO - Testing loss for epoch 35: 0.40832730175509135
+2025-04-17 15:48:53,528 - INFO - Testing accuracy for epoch 35: 83.16326530612245
+2025-04-17 15:48:53,528 - INFO - Testing F1 score for epoch 35: 0.7642857432365417
+
+2025-04-17 15:48:53,528 - INFO - Current Learning rate: [3.125e-05]
+2025-04-17 15:48:56,462 - INFO - Checkpoint saved to ../Train Data/Checkpoints/indic bert\model_epoch_35.pth
+2025-04-17 15:49:54,645 - INFO - Training loss for epoch 36: 0.06934324914550775
+2025-04-17 15:49:54,645 - INFO - Training accuracy for epoch 36: 97.57890961262554
+2025-04-17 15:49:54,645 - INFO - Training F1 score for epoch 36: 0.9684947729110718
+2025-04-17 15:49:57,233 - INFO - Testing loss for epoch 36: 0.3950358454746251
+2025-04-17 15:49:57,233 - INFO - Testing accuracy for epoch 36: 83.92857142857143
+2025-04-17 15:49:57,233 - INFO - Testing F1 score for epoch 36: 0.7657992839813232
+
+2025-04-17 15:49:57,233 - INFO - Current Learning rate: [3.125e-05]
+2025-04-17 15:50:00,118 - INFO - Checkpoint saved to ../Train Data/Checkpoints/indic bert\model_epoch_36.pth
+2025-04-17 15:50:58,135 - INFO - Training loss for epoch 37: 0.06899266277568167
+2025-04-17 15:50:58,135 - INFO - Training accuracy for epoch 37: 97.75824964131995
+2025-04-17 15:50:58,135 - INFO - Training F1 score for epoch 37: 0.9710581302642822
+2025-04-17 15:51:00,485 - INFO - Testing loss for epoch 37: 0.4282213259032186
+2025-04-17 15:51:00,485 - INFO - Testing accuracy for epoch 37: 83.03571428571429
+2025-04-17 15:51:00,485 - INFO - Testing F1 score for epoch 37: 0.7568555474281311
+
+2025-04-17 15:51:00,485 - INFO - Current Learning rate: [1.5625e-05]
+2025-04-17 15:51:03,431 - INFO - Checkpoint saved to ../Train Data/Checkpoints/indic bert\model_epoch_37.pth
+2025-04-17 15:52:01,339 - INFO - Training loss for epoch 38: 0.07281096220979202
+2025-04-17 15:52:01,339 - INFO - Training accuracy for epoch 38: 97.81205164992826
+2025-04-17 15:52:01,340 - INFO - Training F1 score for epoch 38: 0.9715750217437744
+2025-04-17 15:52:03,868 - INFO - Testing loss for epoch 38: 0.4042750230933331
+2025-04-17 15:52:03,868 - INFO - Testing accuracy for epoch 38: 84.31122448979592
+2025-04-17 15:52:03,868 - INFO - Testing F1 score for epoch 38: 0.7674857974052429
+
+2025-04-17 15:52:03,868 - INFO - Current Learning rate: [1.5625e-05]
+2025-04-17 15:52:06,778 - INFO - Checkpoint saved to ../Train Data/Checkpoints/indic bert\model_epoch_38.pth
+2025-04-17 15:53:04,772 - INFO - Training loss for epoch 39: 0.07639474086657198
+2025-04-17 15:53:04,772 - INFO - Training accuracy for epoch 39: 97.8299856527977
+2025-04-17 15:53:04,772 - INFO - Training F1 score for epoch 39: 0.971867024898529
+2025-04-17 15:53:07,257 - INFO - Testing loss for epoch 39: 0.39988514898839045
+2025-04-17 15:53:07,258 - INFO - Testing accuracy for epoch 39: 84.18367346938776
+2025-04-17 15:53:07,258 - INFO - Testing F1 score for epoch 39: 0.7660377621650696
+
+2025-04-17 15:53:07,258 - INFO - Current Learning rate: [1.5625e-05]
+2025-04-17 15:53:10,139 - INFO - Checkpoint saved to ../Train Data/Checkpoints/indic bert\model_epoch_39.pth
+2025-04-17 15:54:08,219 - INFO - Training loss for epoch 40: 0.06191140555822086
+2025-04-17 15:54:08,220 - INFO - Training accuracy for epoch 40: 98.0989956958393
+2025-04-17 15:54:08,220 - INFO - Training F1 score for epoch 40: 0.9751756191253662
+2025-04-17 15:54:10,781 - INFO - Testing loss for epoch 40: 0.41941942069299365
+2025-04-17 15:54:10,782 - INFO - Testing accuracy for epoch 40: 83.6734693877551
+2025-04-17 15:54:10,782 - INFO - Testing F1 score for epoch 40: 0.7672727108001709
+
+2025-04-17 15:54:10,782 - INFO - Current Learning rate: [7.8125e-06]
+2025-04-17 15:54:13,646 - INFO - Checkpoint saved to ../Train Data/Checkpoints/indic bert\model_epoch_40.pth
+2025-04-17 15:55:11,785 - INFO - Training loss for epoch 41: 0.07296307231690415
+2025-04-17 15:55:11,785 - INFO - Training accuracy for epoch 41: 97.70444763271162
+2025-04-17 15:55:11,785 - INFO - Training F1 score for epoch 41: 0.9701492786407471
+2025-04-17 15:55:14,273 - INFO - Testing loss for epoch 41: 0.4157696400521969
+2025-04-17 15:55:14,273 - INFO - Testing accuracy for epoch 41: 83.41836734693878
+2025-04-17 15:55:14,273 - INFO - Testing F1 score for epoch 41: 0.761904776096344
+
+2025-04-17 15:55:14,273 - INFO - Current Learning rate: [7.8125e-06]
+2025-04-17 15:55:17,240 - INFO - Checkpoint saved to ../Train Data/Checkpoints/indic bert\model_epoch_41.pth
+2025-04-17 15:56:15,172 - INFO - Training loss for epoch 42: 0.06920127424517035
+2025-04-17 15:56:15,172 - INFO - Training accuracy for epoch 42: 97.88378766140603
+2025-04-17 15:56:15,172 - INFO - Training F1 score for epoch 42: 0.9725325703620911
+2025-04-17 15:56:17,593 - INFO - Testing loss for epoch 42: 0.45044764408803717
+2025-04-17 15:56:17,593 - INFO - Testing accuracy for epoch 42: 84.43877551020408
+2025-04-17 15:56:17,593 - INFO - Testing F1 score for epoch 42: 0.7588932514190674
+
+2025-04-17 15:56:17,593 - INFO - Current Learning rate: [7.8125e-06]
+2025-04-17 15:56:20,433 - INFO - Checkpoint saved to ../Train Data/Checkpoints/indic bert\model_epoch_42.pth
+2025-04-17 15:57:18,312 - INFO - Training loss for epoch 43: 0.06624376342345932
+2025-04-17 15:57:18,312 - INFO - Training accuracy for epoch 43: 97.99139167862266
+2025-04-17 15:57:18,313 - INFO - Training F1 score for epoch 43: 0.9739413857460022
+2025-04-17 15:57:20,728 - INFO - Testing loss for epoch 43: 0.45429345864650544
+2025-04-17 15:57:20,728 - INFO - Testing accuracy for epoch 43: 82.52551020408163
+2025-04-17 15:57:20,728 - INFO - Testing F1 score for epoch 43: 0.7575221061706543
+
+2025-04-17 15:57:20,728 - INFO - Current Learning rate: [3.90625e-06]
+2025-04-17 15:57:23,550 - INFO - Checkpoint saved to ../Train Data/Checkpoints/indic bert\model_epoch_43.pth
+2025-04-17 15:58:21,313 - INFO - Training loss for epoch 44: 0.0698693317860242
+2025-04-17 15:58:21,313 - INFO - Training accuracy for epoch 44: 97.88378766140603
+2025-04-17 15:58:21,313 - INFO - Training F1 score for epoch 44: 0.9725708961486816
+2025-04-17 15:58:23,846 - INFO - Testing loss for epoch 44: 0.40543993338182266
+2025-04-17 15:58:23,846 - INFO - Testing accuracy for epoch 44: 83.54591836734694
+2025-04-17 15:58:23,846 - INFO - Testing F1 score for epoch 44: 0.7606679201126099
+
+2025-04-17 15:58:23,847 - INFO - Current Learning rate: [3.90625e-06]
+2025-04-17 15:58:26,617 - INFO - Checkpoint saved to ../Train Data/Checkpoints/indic bert\model_epoch_44.pth
+2025-04-17 15:59:24,552 - INFO - Training loss for epoch 45: 0.07452750383055178
+2025-04-17 15:59:24,552 - INFO - Training accuracy for epoch 45: 97.68651362984218
+2025-04-17 15:59:24,552 - INFO - Training F1 score for epoch 45: 0.9698668718338013
+2025-04-17 15:59:27,085 - INFO - Testing loss for epoch 45: 0.39656401938777797
+2025-04-17 15:59:27,086 - INFO - Testing accuracy for epoch 45: 83.92857142857143
+2025-04-17 15:59:27,086 - INFO - Testing F1 score for epoch 45: 0.7657992839813232
+
+2025-04-17 15:59:27,086 - INFO - Current Learning rate: [3.90625e-06]
+2025-04-17 15:59:29,975 - INFO - Checkpoint saved to ../Train Data/Checkpoints/indic bert\model_epoch_45.pth
+2025-04-17 16:00:27,980 - INFO - Training loss for epoch 46: 0.06927201811356505
+2025-04-17 16:00:27,981 - INFO - Training accuracy for epoch 46: 97.8299856527977
+2025-04-17 16:00:27,981 - INFO - Training F1 score for epoch 46: 0.9719452857971191
+2025-04-17 16:00:30,642 - INFO - Testing loss for epoch 46: 0.40106686356724525
+2025-04-17 16:00:30,643 - INFO - Testing accuracy for epoch 46: 83.54591836734694
+2025-04-17 16:00:30,643 - INFO - Testing F1 score for epoch 46: 0.7597765326499939
+
+2025-04-17 16:00:30,643 - INFO - Current Learning rate: [1.953125e-06]
+2025-04-17 16:00:33,505 - INFO - Checkpoint saved to ../Train Data/Checkpoints/indic bert\model_epoch_46.pth
+2025-04-17 16:01:31,391 - INFO - Training loss for epoch 47: 0.07077242000682554
+2025-04-17 16:01:31,392 - INFO - Training accuracy for epoch 47: 97.79411764705883
+2025-04-17 16:01:31,392 - INFO - Training F1 score for epoch 47: 0.9712818264961243
+2025-04-17 16:01:33,813 - INFO - Testing loss for epoch 47: 0.4120459434937458
+2025-04-17 16:01:33,813 - INFO - Testing accuracy for epoch 47: 84.31122448979592
+2025-04-17 16:01:33,813 - INFO - Testing F1 score for epoch 47: 0.763005793094635
+
+2025-04-17 16:01:33,813 - INFO - Current Learning rate: [1.953125e-06]
+2025-04-17 16:01:36,756 - INFO - Checkpoint saved to ../Train Data/Checkpoints/indic bert\model_epoch_47.pth
+2025-04-17 16:02:34,608 - INFO - Training loss for epoch 48: 0.06485813388576225
+2025-04-17 16:02:34,608 - INFO - Training accuracy for epoch 48: 98.02725968436155
+2025-04-17 16:02:34,608 - INFO - Training F1 score for epoch 48: 0.9743469953536987
+2025-04-17 16:02:37,220 - INFO - Testing loss for epoch 48: 0.4418477007016844
+2025-04-17 16:02:37,220 - INFO - Testing accuracy for epoch 48: 83.92857142857143
+2025-04-17 16:02:37,220 - INFO - Testing F1 score for epoch 48: 0.7649253606796265
+
+2025-04-17 16:02:37,221 - INFO - Current Learning rate: [1.953125e-06]
+2025-04-17 16:02:40,165 - INFO - Checkpoint saved to ../Train Data/Checkpoints/indic bert\model_epoch_48.pth
+2025-04-17 16:03:38,201 - INFO - Training loss for epoch 49: 0.07957099591247561
+2025-04-17 16:03:38,201 - INFO - Training accuracy for epoch 49: 97.61477761836441
+2025-04-17 16:03:38,201 - INFO - Training F1 score for epoch 49: 0.9689614772796631
+2025-04-17 16:03:40,564 - INFO - Testing loss for epoch 49: 0.41531065874257866
+2025-04-17 16:03:40,564 - INFO - Testing accuracy for epoch 49: 83.6734693877551
+2025-04-17 16:03:40,564 - INFO - Testing F1 score for epoch 49: 0.7620818018913269
+
+2025-04-17 16:03:40,564 - INFO - Current Learning rate: [1e-06]
+2025-04-17 16:03:43,475 - INFO - Checkpoint saved to ../Train Data/Checkpoints/indic bert\model_epoch_49.pth
+2025-04-17 16:04:41,159 - INFO - Training loss for epoch 50: 0.07274128665975221
+2025-04-17 16:04:41,159 - INFO - Training accuracy for epoch 50: 97.75824964131995
+2025-04-17 16:04:41,159 - INFO - Training F1 score for epoch 50: 0.9708420634269714
+2025-04-17 16:04:46,739 - INFO - Best model saved to ../Train Data/Checkpoints/indic bert\best_model.pth
+2025-04-17 16:04:46,739 - INFO - Testing loss for epoch 50: 0.421395567492867
+2025-04-17 16:04:46,739 - INFO - Testing accuracy for epoch 50: 84.6938775510204
+2025-04-17 16:04:46,739 - INFO - Testing F1 score for epoch 50: 0.7692307829856873
+
+2025-04-17 16:04:46,739 - INFO - Current Learning rate: [1e-06]
+2025-04-17 16:04:49,590 - INFO - Checkpoint saved to ../Train Data/Checkpoints/indic bert\model_epoch_50.pth
+2025-04-17 16:05:47,665 - INFO - Training loss for epoch 51: 0.06767590167341618
+2025-04-17 16:05:47,665 - INFO - Training accuracy for epoch 51: 97.99139167862266
+2025-04-17 16:05:47,665 - INFO - Training F1 score for epoch 51: 0.973965585231781
+2025-04-17 16:05:50,091 - INFO - Testing loss for epoch 51: 0.40820544007785464
+2025-04-17 16:05:50,091 - INFO - Testing accuracy for epoch 51: 83.80102040816327
+2025-04-17 16:05:50,092 - INFO - Testing F1 score for epoch 51: 0.759013295173645
+
+2025-04-17 16:05:50,092 - INFO - Current Learning rate: [1e-06]
+2025-04-17 16:05:53,007 - INFO - Checkpoint saved to ../Train Data/Checkpoints/indic bert\model_epoch_51.pth
+2025-04-17 16:06:51,404 - INFO - Training loss for epoch 52: 0.07412012183515641
+2025-04-17 16:06:51,405 - INFO - Training accuracy for epoch 52: 97.66857962697274
+2025-04-17 16:06:51,405 - INFO - Training F1 score for epoch 52: 0.9698795080184937
+2025-04-17 16:06:53,824 - INFO - Testing loss for epoch 52: 0.415832201361048
+2025-04-17 16:06:53,824 - INFO - Testing accuracy for epoch 52: 84.43877551020408
+2025-04-17 16:06:53,824 - INFO - Testing F1 score for epoch 52: 0.767175555229187
+
+2025-04-17 16:06:53,824 - INFO - Current Learning rate: [1e-06]
+2025-04-17 16:06:56,650 - INFO - Checkpoint saved to ../Train Data/Checkpoints/indic bert\model_epoch_52.pth
+2025-04-17 16:07:54,921 - INFO - Training loss for epoch 53: 0.05854059468855924
+2025-04-17 16:07:54,921 - INFO - Training accuracy for epoch 53: 98.1348637015782
+2025-04-17 16:07:54,921 - INFO - Training F1 score for epoch 53: 0.9756668210029602
+2025-04-17 16:07:57,303 - INFO - Testing loss for epoch 53: 0.42800327677431765
+2025-04-17 16:07:57,303 - INFO - Testing accuracy for epoch 53: 84.31122448979592
+2025-04-17 16:07:57,303 - INFO - Testing F1 score for epoch 53: 0.7639155387878418
+
+2025-04-17 16:07:57,303 - INFO - Current Learning rate: [1e-06]
+2025-04-17 16:08:00,099 - INFO - Checkpoint saved to ../Train Data/Checkpoints/indic bert\model_epoch_53.pth
+2025-04-17 16:08:57,825 - INFO - Training loss for epoch 54: 0.08225734038041287
+2025-04-17 16:08:57,825 - INFO - Training accuracy for epoch 54: 97.5609756097561
+2025-04-17 16:08:57,825 - INFO - Training F1 score for epoch 54: 0.9684747457504272
+2025-04-17 16:09:00,253 - INFO - Testing loss for epoch 54: 0.41571535721269187
+2025-04-17 16:09:00,253 - INFO - Testing accuracy for epoch 54: 84.6938775510204
+2025-04-17 16:09:00,253 - INFO - Testing F1 score for epoch 54: 0.761904776096344
+
+2025-04-17 16:09:00,253 - INFO - Current Learning rate: [1e-06]
+2025-04-17 16:09:03,184 - INFO - Checkpoint saved to ../Train Data/Checkpoints/indic bert\model_epoch_54.pth
+2025-04-17 16:09:59,827 - INFO - Training loss for epoch 55: 0.06678098654745272
+2025-04-17 16:09:59,827 - INFO - Training accuracy for epoch 55: 98.02725968436155
+2025-04-17 16:09:59,827 - INFO - Training F1 score for epoch 55: 0.9743708968162537
+2025-04-17 16:10:02,166 - INFO - Testing loss for epoch 55: 0.4048583772489611
+2025-04-17 16:10:02,166 - INFO - Testing accuracy for epoch 55: 84.31122448979592
+2025-04-17 16:10:02,166 - INFO - Testing F1 score for epoch 55: 0.7657142877578735
+
+2025-04-17 16:10:02,166 - INFO - Current Learning rate: [1e-06]
+2025-04-17 16:10:04,968 - INFO - Checkpoint saved to ../Train Data/Checkpoints/indic bert\model_epoch_55.pth
+2025-04-17 16:11:01,893 - INFO - Training loss for epoch 56: 0.06507676224046556
+2025-04-17 16:11:01,893 - INFO - Training accuracy for epoch 56: 97.72238163558106
+2025-04-17 16:11:01,893 - INFO - Training F1 score for epoch 56: 0.9705541133880615
+2025-04-17 16:11:04,248 - INFO - Testing loss for epoch 56: 0.4179020441916524
+2025-04-17 16:11:04,249 - INFO - Testing accuracy for epoch 56: 82.65306122448979
+2025-04-17 16:11:04,249 - INFO - Testing F1 score for epoch 56: 0.7605633735656738
+
+2025-04-17 16:11:04,249 - INFO - Current Learning rate: [1e-06]
+2025-04-17 16:11:07,123 - INFO - Checkpoint saved to ../Train Data/Checkpoints/indic bert\model_epoch_56.pth
+2025-04-17 16:12:04,062 - INFO - Training loss for epoch 57: 0.04677683900048959
+2025-04-17 16:12:04,062 - INFO - Training accuracy for epoch 57: 98.54734576757532
+2025-04-17 16:12:04,063 - INFO - Training F1 score for epoch 57: 0.9810348749160767
+2025-04-17 16:12:06,423 - INFO - Testing loss for epoch 57: 0.4259337926169439
+2025-04-17 16:12:06,423 - INFO - Testing accuracy for epoch 57: 83.6734693877551
+2025-04-17 16:12:06,423 - INFO - Testing F1 score for epoch 57: 0.7638376355171204
+
+2025-04-17 16:12:06,423 - INFO - Current Learning rate: [1e-06]
+2025-04-17 16:12:09,297 - INFO - Checkpoint saved to ../Train Data/Checkpoints/indic bert\model_epoch_57.pth
+2025-04-17 16:13:06,464 - INFO - Training loss for epoch 58: 0.07343710636969929
+2025-04-17 16:13:06,464 - INFO - Training accuracy for epoch 58: 97.88378766140603
+2025-04-17 16:13:06,465 - INFO - Training F1 score for epoch 58: 0.972455620765686
+2025-04-17 16:13:08,917 - INFO - Testing loss for epoch 58: 0.39801640629920426
+2025-04-17 16:13:08,917 - INFO - Testing accuracy for epoch 58: 83.6734693877551
+2025-04-17 16:13:08,917 - INFO - Testing F1 score for epoch 58: 0.7611940503120422
+
+2025-04-17 16:13:08,917 - INFO - Current Learning rate: [1e-06]
+2025-04-17 16:13:11,825 - INFO - Checkpoint saved to ../Train Data/Checkpoints/indic bert\model_epoch_58.pth
+2025-04-17 16:14:08,479 - INFO - Training loss for epoch 59: 0.06956274588335135
+2025-04-17 16:14:08,479 - INFO - Training accuracy for epoch 59: 97.84791965566714
+2025-04-17 16:14:08,479 - INFO - Training F1 score for epoch 59: 0.9719495177268982
+2025-04-17 16:14:10,955 - INFO - Testing loss for epoch 59: 0.42031246378105513
+2025-04-17 16:14:10,955 - INFO - Testing accuracy for epoch 59: 84.18367346938776
+2025-04-17 16:14:10,955 - INFO - Testing F1 score for epoch 59: 0.7686567306518555
+
+2025-04-17 16:14:10,955 - INFO - Current Learning rate: [1e-06]
+2025-04-17 16:14:13,726 - INFO - Checkpoint saved to ../Train Data/Checkpoints/indic bert\model_epoch_59.pth
+2025-04-17 16:15:10,591 - INFO - Training loss for epoch 60: 0.06800747713257146
+2025-04-17 16:15:10,591 - INFO - Training accuracy for epoch 60: 97.79411764705883
+2025-04-17 16:15:10,591 - INFO - Training F1 score for epoch 60: 0.9714285731315613
+2025-04-17 16:15:12,943 - INFO - Testing loss for epoch 60: 0.42028053112480107
+2025-04-17 16:15:12,943 - INFO - Testing accuracy for epoch 60: 84.43877551020408
+2025-04-17 16:15:12,943 - INFO - Testing F1 score for epoch 60: 0.7559999823570251
+
+2025-04-17 16:15:12,943 - INFO - Current Learning rate: [1e-06]
+2025-04-17 16:15:15,692 - INFO - Checkpoint saved to ../Train Data/Checkpoints/indic bert\model_epoch_60.pth
+2025-04-17 16:16:12,281 - INFO - Training loss for epoch 61: 0.07489497691808453
+2025-04-17 16:16:12,281 - INFO - Training accuracy for epoch 61: 97.45337159253945
+2025-04-17 16:16:12,281 - INFO - Training F1 score for epoch 61: 0.9669767618179321
+2025-04-17 16:16:14,603 - INFO - Testing loss for epoch 61: 0.4742894672351528
+2025-04-17 16:16:14,603 - INFO - Testing accuracy for epoch 61: 83.29081632653062
+2025-04-17 16:16:14,603 - INFO - Testing F1 score for epoch 61: 0.7596330046653748
+
+2025-04-17 16:16:14,603 - INFO - Current Learning rate: [1e-06]
+2025-04-17 16:16:17,503 - INFO - Checkpoint saved to ../Train Data/Checkpoints/indic bert\model_epoch_61.pth
+2025-04-17 16:17:14,422 - INFO - Training loss for epoch 62: 0.06455921718113825
+2025-04-17 16:17:14,422 - INFO - Training accuracy for epoch 62: 98.04519368723099
+2025-04-17 16:17:14,422 - INFO - Training F1 score for epoch 62: 0.9746923446655273
+2025-04-17 16:17:16,757 - INFO - Testing loss for epoch 62: 0.38801232413673886
+2025-04-17 16:17:16,757 - INFO - Testing accuracy for epoch 62: 84.31122448979592
+2025-04-17 16:17:16,757 - INFO - Testing F1 score for epoch 62: 0.7657142877578735
+
+2025-04-17 16:17:16,757 - INFO - Current Learning rate: [1e-06]
+2025-04-17 16:17:19,651 - INFO - Checkpoint saved to ../Train Data/Checkpoints/indic bert\model_epoch_62.pth
+2025-04-17 16:18:16,706 - INFO - Training loss for epoch 63: 0.06868068682106006
+2025-04-17 16:18:16,706 - INFO - Training accuracy for epoch 63: 97.93758967001435
+2025-04-17 16:18:16,706 - INFO - Training F1 score for epoch 63: 0.9732121825218201
+2025-04-17 16:18:21,838 - INFO - Best model saved to ../Train Data/Checkpoints/indic bert\best_model.pth
+2025-04-17 16:18:21,838 - INFO - Testing loss for epoch 63: 0.40636689858321023
+2025-04-17 16:18:21,838 - INFO - Testing accuracy for epoch 63: 84.0561224489796
+2025-04-17 16:18:21,839 - INFO - Testing F1 score for epoch 63: 0.7714807987213135
+
+2025-04-17 16:18:21,839 - INFO - Current Learning rate: [1e-06]
+2025-04-17 16:18:24,577 - INFO - Checkpoint saved to ../Train Data/Checkpoints/indic bert\model_epoch_63.pth
+2025-04-17 16:19:21,828 - INFO - Training loss for epoch 64: 0.07699050320615695
+2025-04-17 16:19:21,828 - INFO - Training accuracy for epoch 64: 97.70444763271162
+2025-04-17 16:19:21,828 - INFO - Training F1 score for epoch 64: 0.9702325463294983
+2025-04-17 16:19:24,189 - INFO - Testing loss for epoch 64: 0.44587635446567925
+2025-04-17 16:19:24,190 - INFO - Testing accuracy for epoch 64: 84.31122448979592
+2025-04-17 16:19:24,190 - INFO - Testing F1 score for epoch 64: 0.7602339386940002
+
+2025-04-17 16:19:24,190 - INFO - Current Learning rate: [1e-06]
+2025-04-17 16:19:27,110 - INFO - Checkpoint saved to ../Train Data/Checkpoints/indic bert\model_epoch_64.pth
